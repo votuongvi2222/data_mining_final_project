@@ -1,0 +1,101 @@
+index,item_id,shop_id,name,sold,historical_sold,liked_count,cmt_count,price,price_min,price_max,rating_star,start1,start2,start3,start4,start5,rcount_with_context,rcount_with_image
+0,2002630586,110428736,"Thun tăm cộc tay rib cổ tròn ÀTOUS chất cotton thoáng mát, thấm hút tốt kiểu dáng đơn giản dễ phối đồ,năng động trẻ ttăm",5,279,89,115,19000000000,19000000000,19000000000,4.965217391304348,0,0,0,4,111,63,49
+1,2002640767,110428736,Áo phông cộc tay cổ tim ÀTOUS chất thun tăm RIB,18,329,66,118,19000000000,19000000000,19000000000,4.898305084745763,1,0,2,4,111,60,38
+2,6164196263,110428736,Áo dài tay cổ tròn ÀTOUS MELANGE dáng ôm chất liệu cotton mềm nhẹ kiểu dáng trẻ trung dễ phối đồ,1,174,34,66,22000000000,22000000000,22000000000,5,0,0,0,0,66,27,24
+3,4257157221,110428736,Áo cổ lọ dài tay thun tăm basic ÀTOUS cotton dày dặn cao cấp co giãn 4 chiều bền đẹp trẻ trung giặt máy không bai dão,0,322,105,89,45000000000,45000000000,45000000000,4.910112359550562,0,1,1,3,84,56,48
+4,2302144156,110428736,"Áo phông kẻ ÀTOUS cổ thuyền tay lỡ chất cotton mềm nhẹ, thoáng mát kiểu dáng trẻ trung đơn giản",5,69,37,31,22000000000,22000000000,22000000000,5,0,0,0,0,31,14,10
+5,4357102358,110428736,Áo hoodie ÀTOUS dài tay chất liệu dày dặn mềm nhẹ,2,155,16,70,25000000000,25000000000,25000000000,4.957142857142857,0,0,0,3,67,33,25
+6,5164196442,110428736,Áo melange dáng ôm ÀTOUS dài tay cổ tim chất cotton mềm nhẹ kiểu dáng đơn giản trẻ trung.,7,171,70,84,22000000000,22000000000,22000000000,4.9523809523809526,0,0,0,4,80,61,52
+7,9704636680,110428736,Áo phông dáng rộng ÀTOUS NITTA oversize kiểu dáng đơn giản trẻ trung chất liệu thấm hút mồ hôi mặc mát,8,147,25,59,19000000000,19000000000,19000000000,5,0,0,0,0,59,34,28
+8,2351167434,110428736,"Áo 2 dây cotton ÀTOUS basic trơn co giãn 4 chiều giặt máy không bai dão màu đen, đỏ, trắng, xanh, navy",21,431,97,194,15000000000,15000000000,15000000000,4.943298969072165,1,0,1,5,187,146,125
+9,2341119275,110428736,Quần legging đen lửng ÀTOUS cotton co giãn 4 chiều giặt máy không bai dão,5,200,42,90,17000000000,17000000000,17000000000,4.888888888888889,2,0,0,2,86,65,54
+10,1938828081,110428736,Áo sơ mi nữ ÀTOUS Livvy tay bồng cổ đức chất chiffon Hàn Quốc kiểu dáng cơ bản dễ phối đồ thanh lịch hiện đại,0,72,146,21,65000000000,65000000000,65000000000,4.857142857142857,0,0,1,1,19,9,6
+11,1939078275,110428736,[Mã BMLTA50 giảm đến 50K đơn 99K] Chân váy bút chì công sở dài ÀTOUS LISSA chất liệu dày dặn không nhăn nhàu,64,559,188,195,43350000000,43350000000,58000000000,4.856410256410256,0,1,8,9,177,121,85
+12,9839733592,110428736,Áo Melange dáng ôm ÀTOUS cộc tay cổ tim chất cotton mềm nhẹ kiểu dáng đơn giản trẻ trung,4,49,11,20,16000000000,16000000000,16000000000,4.85,0,0,1,1,18,10,7
+13,7956951534,110428736,Chân váy ngắn xòe tầng ÀTOUS SOFIA dáng chữ A chất liệu thoáng nhẹ thiết kế trẻ trung năng động,0,13,19,6,61000000000,61000000000,61000000000,4.833333333333333,0,0,0,1,5,2,1
+14,4708956228,110428736,Áo sơ mi dài tay công sở ÀTOUS NESSA buộc nơ cổ chất liệu mềm nhẹ thiết kế thanh lịch,6,42,24,11,49800000000,49800000000,49800000000,4.818181818181818,0,0,0,2,9,6,4
+15,6708490344,110428736,"Quần dài công sở ÀTOUS JOANNE dáng suông kèm belt kiểu dáng hiện đại,thanh lịch, sang trọng",1,7,28,5,80000000000,80000000000,80000000000,4.8,0,0,0,1,4,1,0
+16,3564481096,110428736,[Mã BMLTA50 giảm đến 50K đơn 99K] Quần ống suông dài công sở đen ÀTOUS LUISA có big size dày dặn không nhăn nhàu,17,109,139,28,55250000000,55250000000,68400000000,4.821428571428571,0,0,2,1,25,20,12
+17,7157168804,110428736,Áo 2 dây họa tiết ÀTOUS kiểu dáng trẻ trung năng động dễ phối đồ phù hợp đi làm đi chơi,0,21,5,6,31000000000,31000000000,31000000000,5,0,0,0,0,6,4,3
+18,4864132074,110428736,Áo sơ mi công sở ÀTOUS EMILY dài tay dây nơ cổ kẻ,0,7,5,3,44800000000,44800000000,44800000000,5,0,0,0,0,3,0,0
+19,4256329714,110428736,Đầm ngắn ÀTOUS GEMINA xoè phủ vai đính cúc trước,0,11,57,6,130000000000,130000000000,130000000000,5,0,0,0,0,6,3,1
+20,11760262604,110428736,Cài áo kim loại Àtous,5,30,21,7,18500000000,18500000000,18500000000,5,0,0,0,0,7,5,5
+21,8646173383,110428736,Đầm xòe dài ÀTOUS PAULINE 2 dây bản to sát nách chất liệu mềm nhẹ có lớp lót thiết kế thanh lịch nữ tính,2,12,48,6,136800000000,136800000000,151200000000,5,0,0,0,0,6,4,3
+22,9226018486,110428736,"Đầm ren ÀTOUS LEXI ngắn tay cổ đức chất ren 3D thiết kế hiện đại, thanh lịch, sang trọng.",0,8,11,4,145000000000,145000000000,145000000000,4.5,0,0,1,0,3,2,2
+23,6764161895,110428736,Atous Chân váy đuôi cá khuy trước KELLY,1,15,57,4,68000000000,68000000000,68000000000,5,0,0,0,0,4,1,1
+24,5156980345,110428736,"Đầm xoè cổ vuông ÀTOUS REBECCA tay lửng kiểu dáng trẻ trung, hiện đại phù hợp mặc đi chơi đi làm",0,3,3,2,107500000000,107500000000,107500000000,5,0,0,0,0,2,0,0
+25,3101694678,110428736,"Quần công sở nữ dáng suông ÀTOUS FAITH cạp cao ống đứng kiểu dáng hiện đại, thanh lịch",0,12,17,3,62000000000,62000000000,62000000000,5,0,0,0,0,3,0,0
+26,1939008608,110428736,Áo sơ mi công sở dài tay ÀTOUS ALANA túi ngực cổ đức kiểu dáng trẻ trung thanh lịch,0,10,33,5,60000000000,60000000000,60000000000,4.2,1,0,0,0,4,2,2
+27,4859189558,110428736,Chân váy chữ a ngắn kẻ caro ÀTOUS cạp cao nữ đính cúc trước cao cấp chất tuytsi thiết kế đơn giản năng động,2,64,22,34,48800000000,48800000000,48800000000,5,0,0,0,0,34,30,29
+28,6956341057,110428736,[Mã BMLT300 giảm đến 300K đơn 499K] Đầm công sở midi xòe trơn ÀTOUS LUCY sát nách thiết kế trẻ trung đơn giản thanh lịch,1,40,118,15,115200000000,115200000000,115200000000,4.933333333333334,0,0,0,1,14,8,5
+29,11717951780,110428736,"Áo vest lửng công sở cổ phối màu ÀTOUS CHARLIE thiết kế croptop trẻ trung,hiện đại",0,10,11,6,195000000000,195000000000,195000000000,5,0,0,0,0,6,4,3
+30,4815423372,110428736,Đầm công sở dáng ôm ÀTOUS LAURA đính cúc trước kiểu dáng thanh lịch hiện đại,2,39,80,11,114300000000,114300000000,114300000000,5,0,0,0,0,11,6,3
+31,11273043249,110428736,"Khăn lụa cao cấp ÀTOUS K220 họa tiết độc lạ, sang trọng",4,26,16,7,16280000000,16280000000,16280000000,5,0,0,0,0,7,5,3
+32,3357043047,110428736,Chân váy công sở dáng xòe ÀTOUS JULIE dài qua gối phối màu trẻ trung hiện đại chất vải mềm mịn mặc mát.,4,78,152,19,51850000000,51850000000,51850000000,4.947368421052632,0,0,0,1,18,12,10
+33,11217949141,110428736,"Quần suông ống đứng công sở ÀTOUS PEACH kiểu dáng trẻ trung, hiện đại",0,10,40,4,95000000000,95000000000,95000000000,5,0,0,0,0,4,1,1
+34,4656969811,110428736,"Áo sơ mi công sở dáng rộng ÀTOUS MEGAN dài tay kiểu dáng thanh lịch, trẻ trung",1,23,25,6,49300000000,49300000000,49300000000,5,0,0,0,0,6,3,2
+35,3981420116,110428736,"Chân váy ngắn công sở ÀTOUS Milly dáng chữ A phối ren chất tuytsi Nhật thiết kế trẻ trung, hiện đại, thanh lịch",0,10,15,3,65000000000,65000000000,65000000000,4.666666666666667,0,0,0,1,2,1,1
+36,7556989748,110428736,Atous Aó sơ mi ERIN tuytsi SP000224,0,4,21,3,74000000000,74000000000,74000000000,5,0,0,0,0,3,1,1
+37,5456333245,110428736,Đầm xòe ÀTOUS sát nách pha voan lưới,0,5,17,2,128000000000,128000000000,128000000000,5,0,0,0,0,2,2,2
+38,5267604318,110428736,Set bộ tweed áo khoác kèm chân váy ÀTOUS LARA  full set dạ cotton mềm nhẹ dày dặn kiểu dáng trẻ trung.,0,3,31,2,153000000000,153000000000,153000000000,5,0,0,0,0,2,1,0
+39,5108631098,110428736,Quần baggy công sở nữ ÀTOUS QUINNE kiểu dáng trẻ trung hiện đại dễ phối đồ,0,8,20,1,59200000000,59200000000,59200000000,5,0,0,0,0,1,0,0
+40,4767599441,110428736,Chân váy ngắn công sở ÀTOUS LARA chất tweed không gây bí kiểu dáng trẻ trung thời thượng,0,8,21,2,58000000000,58000000000,58000000000,5,0,0,0,0,2,1,0
+41,4464410911,110428736,Atous áo sơ mi dài tay KALAR,0,7,14,1,60000000000,60000000000,60000000000,5,0,0,0,0,1,0,0
+42,4156332305,110428736,Atous Đầm đuôi cá trễ vai RIANNA,0,6,14,1,140000000000,140000000000,140000000000,5,0,0,0,0,1,0,1
+43,3964284662,110428736,Set bộ áo khoác kèm chân váy ÀTOUS ZOE họa tiết kẻ chất tuytsi kiểu dáng trẻ trung cá tính.,0,5,10,1,157000000000,157000000000,157000000000,5,0,0,0,0,1,1,1
+44,2503199253,110428736,Áo sơmi lụa ÀTOUS LALAY trơn màu basic chất liệu mềm nhẹ cổ đức dễ kết hợp mix đồ,0,13,38,4,75000000000,75000000000,75000000000,5,0,0,0,0,4,3,3
+45,3356437747,110428736,Atous Đầm công sở MIRANDA,0,7,10,2,137000000000,137000000000,137000000000,4.5,0,0,0,1,1,1,0
+46,6108495233,110428736,Atous Áo somi 2 túi ngực cổ đức INDRA SP000200,3,15,24,4,68000000000,68000000000,68000000000,4.25,0,1,0,0,3,2,0
+47,10360571014,110428736,Khăn lụa cao cấp ÀTOUS K260 hoạ tiết độc lạ sang trọng,2,35,46,9,19240000000,19240000000,19240000000,5,0,0,0,0,9,5,4
+48,9724034925,110428736,[Mã BMLTA50 giảm đến 50K đơn 99K] Chân váy bút chì ÀTOUS MONROE trần chỉ ôm dáng xẻ trước cá tính hiện đại,2,29,17,7,57800000000,57800000000,64600000000,4.714285714285714,0,0,1,0,6,3,0
+49,4057158987,110428736,Atous Quần baggy công sở trơn,0,6,5,1,35700000000,35700000000,35700000000,3,0,0,1,0,0,1,0
+50,17004543005,110428736,"Áo sơ mi nữ công sở dài tay ÀTOUS ALLIE cổ đức dáng oversized màu sắc đa dạng, không nhăn nhàu trẻ trung dễ phối đồ",8,142,114,42,58500000000,58500000000,65000000000,4.976190476190476,0,0,0,1,41,32,29
+51,7286668764,110428736,"Áo sơ mi ÀTOUS LEAH cổ tàu dúm dài tay chất đũi thiết kế oversize đơn giản, nhẹ nhàng, hiện đại",5,38,44,9,59850000000,59850000000,59850000000,5,0,0,0,0,9,6,5
+52,4456190400,110428736,Đầm sơ mi công sở dáng ôm ÀTOUS LIND phối màu đen trắng D00117,2,13,56,2,166500000000,166500000000,166500000000,5,0,0,0,0,2,1,1
+53,14110157711,110428736,"Áo khoác dạ cổ tàu ÀTOUS LORENA kiểu dáng cổ điển, thanh lịch thích hợp đi làm, đi chơi",0,4,8,2,215000000000,215000000000,215000000000,3.5,0,1,0,0,1,1,1
+54,7164191864,110428736,Atous Áo sơ mi BLAKE,0,13,16,5,58000000000,58000000000,58000000000,5,0,0,0,0,5,3,2
+55,6781931872,110428736,Atous áo sơ mi lụa chờm vai MAGDA,1,26,33,9,70000000000,70000000000,70000000000,5,0,0,0,0,9,5,4
+56,6664362670,110428736,"Áo blazer công sở nữ ÀTOUS HERA thiết kế vest cúc hai hàng trẻ trung,hiện đại",0,8,33,4,148500000000,148500000000,148500000000,5,0,0,0,0,4,4,3
+57,5764185769,110428736,"Áo khoác ngắn túi trước ÀTOUS ZOE họa tiết kẻ vàng chất vải tuytsi cao cấp mềm nhẹ kiểu dáng trẻ trung, cá tính",0,3,10,1,95000000000,95000000000,95000000000,5,0,0,0,0,1,1,1
+58,5556317680,110428736,"Đầm công sở cổ tim kèm đai lưng ÀTOUS CARRIE dáng ôm thiết kế thanh lịch,trẻ trung",0,10,15,2,137000000000,137000000000,137000000000,5,0,0,0,0,2,2,1
+59,5464147730,110428736,Atous Váy tay lửng bồng COCO,0,2,10,0,138000000000,138000000000,138000000000,0,0,0,0,0,0,0,0
+60,12256505722,110428736,Quần đùi soóc dạ ÀTOUS LORENA cạp cao kiểu dáng trẻ trung năng động thích hợp đi chơi đi làm,0,5,3,2,65000000000,65000000000,65000000000,4.5,0,0,0,1,1,1,1
+61,14909479782,110428736,Áo sơ mi trắng cổ bèo cộc tay ÀTOUS RIO họa tiết thêu gấu kiểu dáng năng động trẻ trung,8,21,52,7,59500000000,59500000000,59500000000,5,0,0,0,0,7,4,3
+62,14710127594,110428736,"Áo sơ mi công sở đen ÀTOUS FRAYA 2 túi ngắn tay kiểu dáng hiện đại, trẻ trung",1,3,11,1,78000000000,78000000000,78000000000,5,0,0,0,0,1,1,0
+63,15910191220,110428736,Áo khoác dạ công sở ÀTOUS BAILEY cổ vest kèm túi kiểu dáng hiện đại trẻ trung,0,0,8,0,225000000000,225000000000,225000000000,0,0,0,0,0,0,0,0
+64,15509920625,110428736,"Đầm công sở dáng xòe ÀTOUS FLORENCE cổ vest phối màu thiết kế hiện đại,thanh lịch",1,4,17,3,185000000000,185000000000,185000000000,5,0,0,0,0,3,2,2
+65,14710201010,110428736,"Chân váy dạ ngắn ÀTOUS BAILEY dáng chữ A kiểu dáng hiện đại, trẻ trung thích hợp đi làm, đi chơi",0,0,1,0,75000000000,75000000000,75000000000,0,0,0,0,0,0,0,0
+66,14510142474,110428736,"Chân váy bút chì công sở ÀTOUS FRAYA xẻ tà 2 bên kiểu dáng hiện đại, trẻ trung",0,2,8,0,75000000000,75000000000,75000000000,0,0,0,0,0,0,0,0
+67,12458837392,110428736,Váy xòe tầng dáng suông ngắn tay ÀTOUS BONNIE đính cúc kim loại thiết kế trẻ trung hiện đại phù hợp đi làm đi chơi,0,4,10,1,168000000000,168000000000,168000000000,5,0,0,0,0,1,1,1
+68,4464375056,110428736,Quần baggy công sở ÀTOUS Hera chất tuytsi dày dặn đứng dáng thiết kẻ trẻ trung phù hợp đi làm,1,55,17,16,59250000000,59250000000,59250000000,4.9375,0,0,0,1,15,11,11
+69,5464391408,110428736,Atous quần ống suông NOVA,0,4,16,3,47600000000,47600000000,47600000000,5,0,0,0,0,3,3,2
+70,5064187739,110428736,Chân váy ngắn ÀTOUS ZOE xếp li kẻ vàng,0,2,6,1,62000000000,62000000000,62000000000,5,0,0,0,0,1,1,1
+71,4264187218,110428736,Chân Váy Ngắn ÀTOUS ZOE Xếp Li Hồng Gạch,0,1,3,0,62000000000,62000000000,62000000000,0,0,0,0,0,0,0,0
+72,3764281819,110428736,"Áo khoác ngắn túi trước ÀTOUS ZOE hồng gạch chất vải tuytsi cao cấp kiểu dáng trẻ trung, cá tính",0,1,7,0,95000000000,95000000000,95000000000,0,0,0,0,0,0,0,0
+73,7694388267,110428736,Quần dài ống suông ÀTOUS CHARLIE xẻ gấu kiểu dáng hiện đại thời trang phù hợp đi làm đi chơi,0,10,9,5,110000000000,110000000000,110000000000,4.6,0,0,1,0,4,4,4
+74,8145805965,110428736,"[Mã BMLTA50 giảm đến 50K đơn 99K] Quần Baggy Cạp Chun Atous HERA Linen chất đũi mềm mặc mát thích hợp đi làm, đi chơi",7,46,17,9,59250000000,59250000000,59250000000,5,0,0,0,0,9,7,6
+75,8945784704,110428736,Atous Quần Suông Cơ Bản NOVA,7,36,49,11,79000000000,79000000000,79000000000,5,0,0,0,0,11,6,5
+76,12179572551,110428736,"Áo vest lửng ÀTOUS CHIARA kiểu dáng hiện đại trẻ trung chất tuytsi mềm nhẹ, không gây bí nóng",0,9,89,1,156750000000,156750000000,156750000000,5,0,0,0,0,1,0,0
+77,7464138794,110428736,Đầm suông trắng ÀTOUS AMBER dây buộc tùy chỉnh eo tay bồng thời thượng,0,5,16,0,115200000000,115200000000,115200000000,0,0,0,0,0,0,0,0
+78,12129754983,110428736,Khăn lụa cao cấp ÀTOUS K320 hoạ tiết độc lạ sang trọng,1,31,24,5,23680000000,23680000000,23680000000,5,0,0,0,0,5,3,3
+79,9545745287,110428736,"Áo sơ mi ÀTOUS SOLA cổ vest ngắn tay chất đũi Nhật thiết kế trẻ trung, đơn giản, hiện đại",16,44,13,13,53550000000,53550000000,63000000000,4.923076923076923,0,0,0,1,12,8,7
+80,9445771851,110428736,[Mã BMLTA50 giảm đến 50K đơn 99K] Quần sooc đũi Nhật À Tous không nhăn nhàu cạp cao xắn gấu trẻ trung,1,44,8,19,49640000000,49640000000,61200000000,4.684210526315789,1,0,1,0,17,12,11
+81,5786673120,110428736,"Áo sơ mi nữ croptop ÀTOUS CARLA cổ vest ngắn chất đũi lạnh thiết kế trẻ trung, phóng khoáng, cá tính.",4,5,8,2,67500000000,67500000000,67500000000,5,0,0,0,0,2,1,1
+82,16472420384,110428736,Áo sơ mi croptop cộc tay ÀTOUS ENVIE thiết kế trẻ trung năng động chất liệu tuytsi mặc mát dễ phối đồ,6,6,6,2,68400000000,68400000000,68400000000,5,0,0,0,0,2,2,2
+83,19607957459,110428736,"Áo sơ mi cộc tay ÀTOUS SKYE dáng dài chất vải mềm mịn phối màu trẻ trung hiện đại dễ phối đồ thích hợp đi làm, đi chơi",4,5,1,2,63000000000,63000000000,63000000000,5,0,0,0,0,2,2,2
+84,17113763291,110428736,"Đầm sơ mi công sở thiết kế ÀTOUS SELENA, đầm midi trắng dài qua gối sang trọng cao cấp chất liệu mềm nhẹ",2,34,173,8,159600000000,159600000000,159600000000,5,0,0,0,0,8,4,4
+85,18707961962,110428736,Áo sơ mi không tay ÀTOUS ARIELA thiết kế hai vạt chất mềm mịn mặc mát thiết kế trẻ trung hiện đại dễ phối đồ,5,5,11,2,68400000000,68400000000,68400000000,5,0,0,0,0,2,0,0
+86,15086446349,110428736,Chân váy bút chì ÀTOUS GIA xẻ tả vạt trước chất mềm mịn phối màu nâu be dễ phối đồ thích hợp đi làm đi chơi,2,2,3,0,59340000000,59340000000,59340000000,0,0,0,0,0,0,0,0
+87,6464159497,110428736,Atous Chân váy bút chì dài trơn kèm belt MARCIE,1,5,6,4,57800000000,57800000000,64600000000,5,0,0,0,0,4,3,3
+88,5786664080,110428736,Quần Suông Cạp Nhỏ ÀTOUS CARLA chất liệu mềm nhẹ thoáng mát kiểu dáng trẻ trung phù hợp đi làm đi chơi,1,2,10,0,69700000000,69700000000,69700000000,0,0,0,0,0,0,0,0
+89,4394316449,110428736,Áo vest công sở nữ ÀTOUS PEACH thiết kế blazer cúc kim loại túi ốp ngoài kiểu dáng trẻ trung hiện đại,0,3,27,2,195000000000,195000000000,195000000000,5,0,0,0,0,2,2,2
+90,3257152191,110428736,Atous Chân váy ERIN Tuytsi SP000437,1,4,11,3,62000000000,62000000000,62000000000,5,0,0,0,0,3,2,2
+91,16521711954,110428736,"Quần ống suông dài ly trước ÀTOUS MABEL kiểu dáng hiện đại, trẻ trung phù hợp đi làm, đi chơi",4,16,30,3,97750000000,97750000000,97750000000,5,0,0,0,0,3,1,1
+92,13577506268,110428736,Chân váy bút chì dài công sở ÀTOUS MOLLY chất tuytsi không nhăn nhàu có lót trong kiểu dáng cơ bản dễ phối đồ,2,13,15,3,67500000000,67500000000,75000000000,5,0,0,0,0,3,2,2
+93,9377167453,110428736,Quần sooc ống suông ÀTOUS ALBA kiểu dáng hiện đại trẻ trung phù hợp đi làm đi chơi,1,2,2,0,78000000000,78000000000,78000000000,0,0,0,0,0,0,0,0
+94,8945757610,110428736,Atous Áo VEST ngắn tay PHILIPA,0,1,14,1,155000000000,155000000000,155000000000,5,0,0,0,0,1,0,0
+95,6164373697,110428736,Atous Áo sơ mi họa tiết LEA,2,8,13,3,49300000000,49300000000,49300000000,5,0,0,0,0,3,2,2
+96,17213772538,110428736,Quần giả váy ÀTOUS CHIARA kiểu dáng hiện đại thanh lịch chất liệu mềm nhẹ không gây bí nóng phù hợp đi làm đi chơi,0,8,23,2,70000000000,70000000000,70000000000,5,0,0,0,0,2,0,0
+97,16323089439,110428736,Áo sơ mi nơ cổ cách điệu BLOOM,0,3,8,0,68400000000,68400000000,68400000000,0,0,0,0,0,0,0,0
+98,14614313249,110428736,"Áo blazer nữ công sở ÀTOUS ALYX dáng vest hai hàng cúc bọc hiện đại, trẻ trung",0,1,14,0,195000000000,195000000000,195000000000,0,0,0,0,0,0,0,0
+99,13958511684,110428736,"Quần tây công sở nữ ÀTOUS ALYX ống đứng kiểu dáng hiện đại, trẻ trung",0,2,5,2,78000000000,78000000000,78000000000,5,0,0,0,0,2,2,1

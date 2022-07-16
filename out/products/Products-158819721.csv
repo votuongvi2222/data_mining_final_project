@@ -1,0 +1,85 @@
+index,item_id,shop_id,name,sold,historical_sold,liked_count,cmt_count,price,price_min,price_max,rating_star,start1,start2,start3,start4,start5,rcount_with_context,rcount_with_image
+0,2409751355,158819721,"Máy xay cầm tay Braun MQ5235 Sản xuất 100% tại Châu Âu Số 1 thế giới, Công suất 1000w, chống văng độc quyền, xay nhanh.",112,1908,786,710,174900000000,174900000000,174900000000,4.940845070422535,2,3,3,19,683,442,373
+1,2409751382,158819721,"Máy xay cầm tay Braun MQ5200 Sản xuất 100% tại Châu Âu Số 1 thế giới, Công suất 1000w, chống văng độc quyền, xay nhanh",33,693,202,262,134900000000,134900000000,134900000000,4.927480916030534,1,1,2,8,250,143,119
+2,4585109852,158819721,"Máy xay cầm tay  Braun Sản xuất 100% tại Châu Âu Số 1 thế giới, Công suất 1000w, chống văng độc quyền, bảo hành 24 thang",34,399,223,141,134900000000,134900000000,379000000000,4.98581560283688,0,0,1,0,140,91,82
+3,5779726102,158819721,"Máy xay cầm tay  Braun MQ5245 Sản xuất 100% tại Châu Âu, chống văng độc quyền, xay nhanh,xay được đá, xay thức ăn dặm",9,146,72,63,219000000000,219000000000,219000000000,4.920634920634921,0,0,1,3,59,41,37
+4,3004406975,158819721,"Bình giữ nhiệt số 1 Nhật Bản Thermos nút bấm 500ml. Trọng lượng siêu nhẹ, chất liệu thép không gỉ. Hàng chính hãng",2,52,34,27,49900000000,49900000000,50400000000,4.961538461538462,1,0,0,1,25,11,12
+5,9439258156,158819721,"Bình giữ nhiệt số 1 Nhật Bản Thermos nút bấm, Trọng lượng siêu nhẹ, chất liệu thép không gỉ. Hàng chính hãng 100%",18,124,64,47,47500000000,47500000000,59500000000,5,0,0,0,0,47,21,17
+6,9315971970,158819721,"Bình giữ nhiệt số 1 Nhật Bản Thermos nắp vặn 500ml. Trọng lượng siêu nhẹ, chất liệu thép không gỉ. Hàng chính hãng",1,55,40,28,50400000000,50400000000,50400000000,4.928571428571429,0,0,0,2,26,10,9
+7,2409751409,158819721,"[Mã ELMALL10 giảm 10% đơn 500K] Máy xay cầm tay Braun MQ3035 công suất 700W, lưỡi dao sắc bén, thiết kế chống văng.",0,33,34,14,190000000000,190000000000,190000000000,4.928571428571429,0,0,0,1,13,5,3
+8,2480902239,158819721,"Bàn chải đánh răng điện Oral-B Vitality 170 CrossAction Blue- 2 đầu thay D100.423.1, hàng chính hãng , bảo hành 24 tháng",17,97,45,26,84900000000,84900000000,84900000000,5,0,0,0,0,26,12,11
+9,2409751429,158819721,"Máy ép vắt cam Braun CJ3000 Sản xuất 100% tại Châu Âu Công suất 20W-Dung tích350ml, lấy nước ép tối đa.",0,5,13,3,89200000000,89200000000,89200000000,5,0,0,0,0,3,0,0
+10,2409751417,158819721,"Máy xay cầm tay Braun MQ3000+ Smoothie-Chất lượng Đức-Công suất 700W,đầu xay bằng nhựa, đa chức năng",1,17,14,9,139000000000,139000000000,139000000000,4.666666666666667,0,1,0,0,8,4,3
+11,8715971454,158819721,"Bình giữ nhiệt số 1 Nhật Bản Thermos nút bấm 350ml. Trọng lượng siêu nhẹ, chất liệu thép không gỉ. Hàng chính hãng",6,35,14,11,47500000000,47500000000,47500000000,5,0,0,0,0,11,4,3
+12,2409751354,158819721,"Ấm Siêu Tốc Braun WK300ONYX, Sản xuất 100% tại Châu Âu. Công suất 2200w, đun siêu tốc chỉ 45 giây, dung tích 1.7l",2,11,22,8,161500000000,161500000000,161500000000,5,0,0,0,0,8,7,6
+13,9039374982,158819721,"Máy xay cầm tay Braun MQ7035 Sản xuất 100% tại Châu Âu Số 1 thế giới, Công suất 1000w, chống văng độc quyền.",1,29,38,12,329000000000,329000000000,329000000000,5,0,0,0,0,12,4,6
+14,9149366883,158819721,"Máy ép chậm Severin ES3571, hàng chính hãng Đức 100%, Công nghệ ép chậm tiên tiến với 3 lõi lọc, Bảo hành 24 tháng",3,14,20,5,359000000000,359000000000,359000000000,5,0,0,0,0,5,1,1
+15,2409751475,158819721,Bàn chải đánh răng pin Oral-B Stages Power DB4510K,4,14,4,7,43900000000,43900000000,43900000000,5,0,0,0,0,7,3,2
+16,10902939717,158819721,"Bàn chải đánh răng Oral-B, hàng chính hãng 100%, bảo hành 24 tháng.",7,27,36,7,59000000000,59000000000,210000000000,5,0,0,0,0,7,2,3
+17,6785128644,158819721,"Máy xay cầm tay  Braun MQ7045 Sản xuất 100% tại Châu Âu Số 1 thế giới, Công suất 1000w, chống văng độc quyền.",2,27,18,9,379000000000,379000000000,379000000000,5,0,0,0,0,9,4,4
+18,4893900574,158819721,Đầu chải răng Oral-B Sensi Ultrathin EB60-2,0,7,0,2,43740000000,43740000000,43740000000,4.5,0,0,0,1,1,1,1
+19,3170718979,158819721,"Chảo chống dính cao cấp Đức đáy từ Fissler Cenit Induction hàng chính hãng 100% sản xuất tại Đức, an toàn.",1,13,4,3,189000000000,189000000000,219000000000,5,0,0,0,0,3,2,2
+20,7462103390,158819721,"Chảo chống dính cao cấp Đức đáy từ Fissler Adamant Classic hàng chính hãng 100% sản xuất tại Đức, an toàn sức khỏe",0,6,6,0,220000000000,220000000000,250000000000,0,0,0,0,0,0,0,0
+21,15122842733,158819721,"Chảo chống dính cao cấp Đức đáy từ Fissler Adamant comfort,  hàng chính hãng 100% sản xuất tại Đức.",0,4,4,1,229000000000,229000000000,327200000000,5,0,0,0,0,1,1,0
+22,5362111163,158819721,"Chảo chống dính cao cấp Đức đáy từ Fissler Adamant premium , hàng chính hãng sản xuất tại Đức, an toàn cho sức khỏe",1,7,5,1,331900000000,331900000000,449000000000,5,0,0,0,0,1,1,1
+23,9863009064,158819721,"Bộ 4 ly pha lê cao Nachtmann Bossa Nova, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,2,1,1,100900000000,100900000000,100900000000,5,0,0,0,0,1,0,0
+24,4768172819,158819721,"Nồi áp suất Fissler Vitavit Premium 6L 22cm, hàng chính hãng 100% sản xuất tại Đức.",1,3,1,0,749000000000,749000000000,749000000000,0,0,0,0,0,0,0,0
+25,2451823826,158819721,Đầu Chải Răng Oral-B Crossaction EB 50-2,0,5,4,2,43740000000,43740000000,43740000000,5,0,0,0,0,2,0,0
+26,2409751360,158819721,"Ấm đun nước siêu tốc Braun WK 300RD Sản xuất 100% tại Châu Âu Công suất 2200w, đun siêu tốc chỉ 45 giây, dung tích 1.7l",1,3,1,1,161500000000,161500000000,161500000000,5,0,0,0,0,1,1,1
+27,2409751350,158819721,Ấm đun siêu tốc Braun WK300WH - Sản xuất tại châu Âu -Công suất 2200W- Dung tích 1.7L - Đế xoay 360 độ.,0,3,15,0,161500000000,161500000000,161500000000,0,0,0,0,0,0,0,0
+28,7462116808,158819721,"Bộ nồi chống dính Đức cao cấp Fissler Luno 4 nồi hàng chính hãng 100% sản xuất tại Đức, an toàn cho sức khỏe, bền, đẹp.",0,2,14,1,1095900000000,1095900000000,1095900000000,5,0,0,0,0,1,1,0
+29,14611382023,158819721,[BH 24 THÁNG] Nồi ủ Thermos TCRA - 4500 GL 4.5L màu Gold,1,14,10,8,359000000000,359000000000,359000000000,4.625,0,1,0,0,7,5,4
+30,7262124440,158819721,"Bộ nồi inox Đức cao cấp Fissler Viseo hàng chính hãng 100% sản xuất tại Đức, an toàn cho sức khỏe, bền, đẹp",1,1,8,0,990000000000,990000000000,1178000000000,0,0,0,0,0,0,0,0
+31,10945651499,158819721,"Vỉ nướng điện Severin PG 8123, hàng chính hãng , bảo hành 24 tháng.",0,0,4,0,466600000000,466600000000,466600000000,0,0,0,0,0,0,0,0
+32,9953742810,158819721,"Bộ dao 7 món Wusthof Silverpoint, chính hãng Đức",0,0,3,0,594100000000,594100000000,594100000000,0,0,0,0,0,0,0,0
+33,8553734105,158819721,Bộ dao 7 món Wusthof Classic nâu gỗ,0,0,1,0,1279000000000,1279000000000,1279000000000,0,0,0,0,0,0,0,0
+34,6662120636,158819721,"Bộ nồi inox Đức cao cấp Fissler Bonn 5 món hàng chính hãng 100% sản xuất tại Đức, an toàn cho sức khỏe, bền, đẹp",0,1,5,0,1485900000000,1485900000000,1485900000000,0,0,0,0,0,0,0,0
+35,6562118531,158819721,"Bộ nồi inox Đức cao cấp Fissler Profi 4 nồi và 1 chảo chống dính cao cấp Stardust 24cm, hàng chính hãng 100% SX tại Đức",0,0,4,0,1870000000000,1870000000000,1870000000000,0,0,0,0,0,0,0,0
+36,4868173046,158819721,"[Mã ELMALL7 giảm 7% đơn 5TR] Nồi áp suất Fissler Vitavit Premium, hàng chính hãng 100% sản xuất tại Đức.",0,5,5,1,639900000000,639900000000,792000000000,5,0,0,0,0,1,0,0
+37,3276149851,158819721,"Thùng rác Hailo Solid. Hàng chính hãng, sản xuất tại Đức. Bảo hành 12 tháng.",0,2,3,1,82500000000,82500000000,257900000000,5,0,0,0,0,1,0,0
+38,2409751427,158819721,"Máy ép vắt cam Braun CJ3050 Sản xuất 100% tại Châu Âu Công suất mạnh mẽ 60w, lấy nước ép tối đa.",0,0,3,0,161500000000,161500000000,161500000000,0,0,0,0,0,0,0,0
+39,2409751423,158819721,"Máy ép vắt cam Braun MPZ9 Sản xuất 100% tại Châu Âu Công suất 20W-Dung tích 1000ml, lấy nước ép tối đa.",0,0,2,0,97500000000,97500000000,97500000000,0,0,0,0,0,0,0,0
+40,14279797979,158819721,"Bình giữ nhiệt số 1 NhậtBản Thermos nút bấm x 750ml. Trọng lượng siêu nhẹ, Chất liệu thép không gỉ. Hàng chính hãng 100%",2,6,2,3,59500000000,59500000000,59500000000,5,0,0,0,0,3,1,0
+41,8551247724,158819721,"Bàn chải đánh răng điện Oral-B Pro700 D16.513.U, hàng chính hãng , bảo hành 24 tháng.",1,7,4,0,169900000000,169900000000,169900000000,0,0,0,0,0,0,0,0
+42,3888681039,158819721,Bộ dao 5 món Wusthof Gourmet,0,0,0,0,888200000000,888200000000,888200000000,0,0,0,0,0,0,0,0
+43,20512333984,158819721,"Chảo đáy sâu Fissler Adamant 28cm hàng chính hãng 100% sản xuất tại Đức, bảo hành 24 tháng.",0,0,0,0,396000000000,396000000000,396000000000,0,0,0,0,0,0,0,0
+44,19412342076,158819721,"Chảo inox Fissler Steelux cao cấp tay cầm inox 24cm hàng chính hãng 100% sản xuất tại Đức, bảo hành 24 tháng.",0,0,0,0,401900000000,401900000000,401900000000,0,0,0,0,0,0,0,0
+45,17360686584,158819721,"Bộ 2 chảo chống dính cao cấp Đức đáy từ Fissler Adamant Comfort 24cm&28cm hàng chính hãng 100% sản xuất tại Đức, an toàn",0,0,0,0,529650000000,529650000000,529650000000,0,0,0,0,0,0,0,0
+46,16760691255,158819721,"Bộ 2 món chảo chống dính cao cấp Đức đáy từ Fissler Adamant Classic và Vá vuông Fissler Magic hàng chính hãng, an toàn",0,0,0,0,287100000000,287100000000,287100000000,0,0,0,0,0,0,0,0
+47,16675344575,158819721,"Vỉ nướng điện Severin PG 8567, hàng chính hãng , bảo hành 24 tháng.",0,0,1,0,222900000000,222900000000,222900000000,0,0,0,0,0,0,0,0
+48,16075373951,158819721,"Chảo inox Fissler Original Pro size 28cm hàng chính hãng 100% sản xuất tại Đức, bảo hành 24 tháng.",0,0,0,0,529000000000,529000000000,529000000000,0,0,0,0,0,0,0,0
+49,15851204604,158819721,[Mã ELMALL7 giảm 7% đơn 5TR] Combo Máy xay cầm tay Braun MQ5200 và Nồi ủ Thermos TCRA-4500 4.5L,0,0,2,0,579000000000,579000000000,579000000000,0,0,0,0,0,0,0,0
+50,15822922774,158819721,Bộ dao bếp Wusthof Silverpoint Hàng chính hãng 100% sản xuất tại Đức.,0,0,0,0,424100000000,424100000000,424100000000,0,0,0,0,0,0,0,0
+51,15659113439,158819721,"Bộ nồi lẩu và xửng hấp Fissler Nanjing 36cm chính hãng 100%, xuất xứ thương hiệu Đức, bảo hành 12 tháng",0,0,1,0,847000000000,847000000000,847000000000,0,0,0,0,0,0,0,0
+52,15651201732,158819721,[Mã ELHA10 giảm 6% đơn 5TR] Combo Máy xay cầm tay Braun MQ5235 và Nồi ủ Thermos TCRA-4500 4.5L,0,0,0,0,619000000000,619000000000,619000000000,0,0,0,0,0,0,0,0
+53,15486021574,158819721,[Mã ELMALL10 giảm 10% đơn 500K] Combo Giải Nhiệt Máy xay cầm tay Braun MQ5235 và Máy vắt cam CJ3000,0,0,0,0,314000000000,314000000000,314000000000,0,0,0,0,0,0,0,0
+54,14584227500,158819721,"Nắp chống văng dầu mỡ Fissler 20-28cm chính hãng 100%, xuất xứ thương hiệu Đức, bảo hành 12 tháng",0,0,0,0,198000000000,198000000000,198000000000,0,0,0,0,0,0,0,0
+55,14259118191,158819721,"Chảo đáy sâu Fissler Cenit chính hãng 100% sản xuất tại châu Âu, bảo hành 12 tháng và đổi trả miễn phí",0,0,0,0,261000000000,261000000000,351000000000,0,0,0,0,0,0,0,0
+56,14186260814,158819721,"Bộ nồi Fissler OPC2 Original-Profi Collection cao cấp nắp inox, hàng chính hãng 100% sản xuất tại Đức.",0,0,0,0,1759000000000,1759000000000,2209000000000,0,0,0,0,0,0,0,0
+57,13304207554,158819721,"Vỉ nướng điện Severin PG 8124, hàng chính hãng , bảo hành 24 tháng.",0,1,1,0,568600000000,568600000000,568600000000,0,0,0,0,0,0,0,0
+58,13176324981,158819721,[Mã ELMALL7 giảm 7% đơn 5TR] Combo Máy xay cầm tay Braun MQ5245 và Nồi ủ Thermos TCRA-4500 4.5L,0,0,0,0,699000000000,699000000000,699000000000,0,0,0,0,0,0,0,0
+59,12994124693,158819721,"Chảo inox Fissler Original Pro size 24cm hàng chính hãng 100% sản xuất tại Đức , bảo hành 24 tháng.",0,0,0,0,439000000000,439000000000,439000000000,0,0,0,0,0,0,0,0
+60,12562657974,158819721,"Nồi inox Đức cao cấp Fissler Viseo, hàng chính hãng 100% sản xuất tại Đức.",0,3,1,1,334000000000,334000000000,407500000000,3,0,0,1,0,0,1,0
+61,10508994675,158819721,"Bộ 4 ly pha lê cao Nachtmann Highland, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,0,0,119000000000,119000000000,119000000000,0,0,0,0,0,0,0,0
+62,10503219827,158819721,"Đồ mài dao Wusthof, hàng chính hãng 100%",0,1,2,0,88000000000,88000000000,159000000000,0,0,0,0,0,0,0,0
+63,10412892032,158819721,Bộ nồi inox Đức cao cấp Fissler Hamburg 4 món hàng chính hãng 100% sản xuất tại Đức,0,1,1,0,784900000000,784900000000,784900000000,0,0,0,0,0,0,0,0
+64,9963006692,158819721,"Bộ 4 ly pha lê Nachtmann Highland, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,1,0,0,109000000000,109000000000,109000000000,0,0,0,0,0,0,0,0
+65,9558857721,158819721,"Đĩa pha lê Nachtmann Bossa Nova 30cm, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,0,0,82000000000,82000000000,82000000000,0,0,0,0,0,0,0,0
+66,9358864646,158819721,"Bộ 2 đĩa pha lê Nachtmann Rumba 32cm, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,1,0,138500000000,138500000000,138500000000,0,0,0,0,0,0,0,0
+67,8758847682,158819721,"Bình hoa pha lê Nachtmann Saphir 30cm, chính hãng Đức, sang trọng, chống xước",0,0,2,0,225700000000,225700000000,225700000000,0,0,0,0,0,0,0,0
+68,8449361549,158819721,"Nồi chiên không dầu Severin FR2445, hàng chính hãng Đức. Dung tích lớn 5L. Hàng chính hãng , bảo hành 24 tháng.",0,3,19,2,359000000000,359000000000,359000000000,3,1,0,0,0,1,2,2
+69,7788575476,158819721,Dao thái Wusthof Classic 20cm,0,0,0,0,451000000000,451000000000,451000000000,0,0,0,0,0,0,0,0
+70,7187526752,158819721,"Nồi chiên không dầu Severin FR2430, hàng chính hãng Đức. Hàng chính hãng , bảo hành 24 tháng.",0,0,9,0,296300000000,296300000000,296300000000,0,0,0,0,0,0,0,0
+71,6090858268,158819721,"Bộ 4 ly pha lê Nachtmann Bossa Nova, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,1,0,107500000000,107500000000,107500000000,0,0,0,0,0,0,0,0
+72,6076007286,158819721,"Thùng rác Hailo Pure. Hàng chính hãng, sản xuất tại Đức. Bảo hành 12 tháng.",0,0,0,0,208000000000,208000000000,350500000000,0,0,0,0,0,0,0,0
+73,5076007516,158819721,"Thùng rác Hailo Pure S Đỏ 3L. Hàng chính hãng, sản xuất tại Đức. Bảo hành 12 tháng.",0,0,0,0,219000000000,219000000000,219000000000,0,0,0,0,0,0,0,0
+74,4790870272,158819721,"Bộ bình & ly pha lê whisky Nachtmann Bossa Nova 3 món, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,0,0,497900000000,497900000000,497900000000,0,0,0,0,0,0,0,0
+75,4790858352,158819721,"Bộ 4 ly pha lê cao Nachtmann Noblesse, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,2,0,1,110800000000,110800000000,110800000000,5,0,0,0,0,1,0,0
+76,4576015855,158819721,"Thùng rác Hailo Harmony. Hàng chính hãng, sản xuất tại Đức. Bảo hành 12 tháng.",0,0,0,0,297900000000,297900000000,297900000000,0,0,0,0,0,0,0,0
+77,3490912076,158819721,"Bộ 4 ly pha lê Nachtmann Noblesse, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,1,2,0,101500000000,101500000000,101500000000,0,0,0,0,0,0,0,0
+78,2964193132,158819721,"Bình pha lê Nachtmann Bossa Nova có quai cầm, chính hãng Đức, an toàn cho sức khỏe, sang trọng, chống xước",0,0,1,0,129000000000,129000000000,129000000000,0,0,0,0,0,0,0,0
+79,2451823395,158819721,Máy Cạo Râu Braun ProSkin 3040s,0,0,1,0,418000000000,418000000000,418000000000,0,0,0,0,0,0,0,0
+80,2409751481,158819721,"Bàn chải đánh răng điện Oral-B Pro600 D 16.513, hàng chính hãng , bảo hành 24 tháng.",0,0,2,0,160900000000,160900000000,160900000000,0,0,0,0,0,0,0,0
+81,20522721084,158819721,"Nồi ủ Thermos số 1 Nhật Bản, KBG-4500-CS 4.5L màu bạc, hàng chính hãng, bảo hành 24 tháng.",0,0,0,0,259000000000,259000000000,259000000000,0,0,0,0,0,0,0,0
+82,19922737276,158819721,"Nồi ủ Thermos số 1 Nhật Bản, 4.5 lít, bảo hành 24 tháng.",0,0,1,0,259000000000,259000000000,259000000000,0,0,0,0,0,0,0,0
+83,19122718505,158819721,"Nồi ủ Thermos số 1 Nhật Bản, KBG-4500-CBW 4.5L màu nâu,  hàng chính hãng, bảo hành 24 tháng.",0,0,0,0,259000000000,259000000000,259000000000,0,0,0,0,0,0,0,0

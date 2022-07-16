@@ -1,0 +1,101 @@
+index,item_id,shop_id,name,sold,historical_sold,liked_count,cmt_count,price,price_min,price_max,rating_star,start1,start2,start3,start4,start5,rcount_with_context,rcount_with_image
+0,8000500787,94331935,"Quần tây nam màu đen, có tới size đại 38, ống côn, form body slimfit, chất liệu co giãn, hiệu Amazing",15,226,69,93,29900000000,29900000000,32500000000,4.903225806451613,1,1,0,2,89,39,32
+1,3353337443,94331935,"Quà tặng cao cấp Amazing, trao gởi trọn niềm vui",0,219,13,109,3000000000,3000000000,5000000000,4.89908256880734,1,0,3,1,104,24,19
+2,5236825904,94331935,"Quần tây nam cao cấp Amazing, big size tới 100kg, họa tiết vân chìm, màu xám lông chuột, không ly, form dáng chuẩn",1,156,49,65,39500000000,39500000000,55900000000,4.7846153846153845,1,0,4,2,58,41,26
+3,3888422737,94331935,"Quần thể dục 3 sọc, đồng phục đi học lưng thun dây rút bé trai bé gái, đồ thể thao nam nữ các cấp, Amazing",19,373,45,105,7400000000,7400000000,11200000000,4.847619047619047,1,1,2,5,96,51,34
+4,6888337887,94331935,"Áo thun thể dục cổ bẻ và cổ tròn, đồng phục thể thao cho học sinh nam nữ các cấp, Amazing",5,280,60,101,7800000000,7800000000,10600000000,4.851485148514851,2,0,3,1,95,44,35
+5,3370405006,94331935,"Quần sọt nam thương hiêu Amazing, phong cách thể thao, big size, short kaki lưng thun, chất liệu co giãn nhẹ",3,181,49,69,17500000000,17500000000,18500000000,4.971014492753623,0,0,0,2,67,22,19
+6,9121524702,94331935,"Quần đùi, short lưng thun học sinh cấp 1, màu xanh đi học, 2 túi đắp ngoài, size từ 14 đến 95kg, hiệu AMAZING",1,137,10,33,7800000000,7800000000,13600000000,4.96969696969697,0,0,0,1,32,15,8
+7,8137349887,94331935,"Quần xanh học sinh lưng thun, đồng phục đi học nam nữ, xếp 2 ly, dây kéo,form rộng, size từ 20 đến 95kg, hiệu AMAZING",12,185,21,47,13000000000,13000000000,15700000000,4.9361702127659575,0,0,1,1,45,24,11
+8,7561044937,94331935,"Áo sơ mi nam Amazing, họa tiết nhỏ tay dài, form regular, phong cách công sở, dáng rộng, size đại tới 100kg",1,30,7,16,18900000000,18900000000,20900000000,4.8125,0,0,1,1,14,11,9
+9,3342054196,94331935,"Quần tây âu nam Amazing, màu xám muối tiêu, vân chìm, phong cách công sở trung niên, ống suông, không ly",2,88,33,42,33500000000,33500000000,33500000000,4.904761904761905,0,0,1,2,39,19,15
+10,6688535836,94331935,"Áo thun trắng thể dục 3 sọc vai, cổ tròn và cổ bẻ, đồng phục thể thao cho học sinh nam nữ các cấp, từ 20-105kg, Amazing",0,71,20,24,7800000000,7800000000,10600000000,4.875,0,0,0,3,21,12,8
+11,10818130918,94331935,"Áo sơ mi nam trắng tay ngắn  Amazing, đồng phục học sinh các cấp, size từ 20-95kg, form suông, vạt bầu",10,135,25,32,12200000000,12200000000,23600000000,4.9375,0,0,0,2,30,20,9
+12,9980401469,94331935,"Áo thun thể dục 3 sọc vai, cổ bẻ và cổ tròn, đồng phục thể thao cho học sinh nam nữ các cấp, từ 20-105kg, Amazing",0,177,14,54,7800000000,7800000000,10600000000,4.833333333333333,0,1,1,4,48,24,19
+13,7567487923,94331935,"Quần tây nam cao cấp Amazing màu đen và xanh đen, form truyền thống công sở, không ly, ống đứng",7,71,19,32,39500000000,39500000000,44500000000,4.84375,0,1,0,2,29,15,13
+14,4744492144,94331935,"Áo sơ mi nam tay ngắn, vạt ngang, họa tiết nhỏ, form dáng rộng rãi, thời trang trung niên bigsize cao cấp Amazing",2,62,20,26,19900000000,19900000000,24900000000,4.961538461538462,0,0,0,1,25,13,12
+15,10518706616,94331935,"Quần thun thể dục 3 sọc màu xanh Amazing, đồng phục đi học lưng chun, dây rút, đồ thể thao nam nữ các cấp",4,110,20,34,7400000000,7400000000,11200000000,4.882352941176471,0,0,1,2,31,18,15
+16,6569377834,94331935,"Jogger quần kaki nam Amazing, bo lai, unisex big size, dáng thể thao năng động, vải co giãn nhẹ, màu be",1,80,20,30,26900000000,26900000000,28500000000,4.933333333333334,0,0,0,2,28,12,7
+17,6144423870,94331935,"Áo sơ mi nam hoa văn nhỏ, họa tiết hình học, chất vải mềm mát, dáng rộng, tay ngắn, vạt ngang, Amazing",0,18,3,7,19900000000,19900000000,24900000000,5,0,0,0,0,7,3,3
+18,6034805372,94331935,"Áo sơ mi nam trắng Amazing, thời trang công sở, đồng phục học sinh, form rộng, vạt bầu, tay ngắn, vải KT silk mềm mượt",6,108,36,34,19900000000,19900000000,27900000000,4.852941176470588,0,0,1,3,30,21,15
+19,9805297866,94331935,"Quần short nam lửng, kaki Amazing cao cấp, màu sắc trẻ trung, bigsize, dây rút, lưng thun",4,96,19,32,17500000000,17500000000,21900000000,4.9375,0,0,1,0,31,11,7
+20,9901955732,94331935,"Quần tây nam Amazing màu đen và xanh đen, size 28 đến 40, form công sở truyền thống, không ly, ống suông",3,43,13,23,39500000000,39500000000,44500000000,4.913043478260869,0,0,0,2,21,9,8
+21,3571508973,94331935,"Amazing, quần dài lưng chun Baggy, vải kaki co giãn, phong cách Unisex, thể thao năng động, thời trang trẻ trung",8,85,16,27,26900000000,26900000000,28500000000,5,0,0,0,0,27,13,12
+22,3269548492,94331935,"Big size, Quần jogger Amazing màu đen, kaki nam lưng thun cao cấp, gấu quần bo chun, unisex, dáng thể thao",3,31,11,16,26900000000,26900000000,28500000000,4.9375,0,0,0,1,15,6,1
+23,8009928778,94331935,"Quần short kaki big size (tới 80kg) Amazing lưng thun, cao cấp, chất vải co giãn nhẹ, màu đen và trắng sang trọng",2,54,10,24,17500000000,17500000000,18500000000,5,0,0,0,0,24,11,12
+24,4969941582,94331935,"Quần Baggy nam Amazing, chất liệu kaki co giãn, form suông, lưng chun, phong cách Unisex, tôn dáng đẹp, trẻ trung",0,43,16,21,26900000000,26900000000,28500000000,4.904761904761905,0,0,0,2,19,6,5
+25,3934900963,94331935,"Áo somi nam trắng dài tay Amazing, đồng phục học sinh, form rộng công sở, big size từ 45-100kg, vải KT silk mềm mát",3,67,20,17,19900000000,19900000000,27900000000,5,0,0,0,0,17,7,0
+26,7938697868,94331935,"Áo họa tiết Amazing, sơ mi nam hoa văn cao cấp, có tới size 105kg, chất vải mềm mát, tay ngắn, vạt ngang, dáng rộng",0,35,2,22,11700000000,11700000000,17900000000,4.954545454545454,0,0,0,1,21,10,8
+27,6844491683,94331935,"Áo sơ mi nam họa tiết, big size tới 105kg, dáng rộng, tay ngắn, vạt ngang, thương hiệu Amazing",0,29,6,15,19900000000,19900000000,24900000000,4.933333333333334,0,0,0,1,14,9,6
+28,6771133593,94331935,"Quần đùi, short kaki nam Amazing, dáng thể thao, big size, lưng thun, dây rút, thoải mái vận động",0,37,6,13,17500000000,17500000000,17500000000,5,0,0,0,0,14,6,4
+29,5165275173,94331935,"Quần tây âu Amazing màu xanh, big size, ống côn, chất liệu co giãn, form dáng body slimfit, phong cách Hàn Quốc",1,46,16,16,29900000000,29900000000,32500000000,4.875,0,0,0,2,14,5,2
+30,6538681615,94331935,"Áo sơ mi họa tiết Amazing, chất vải mềm mát, dáng rộng, cộc tay, vạt ngang, có size cho người 105kg",0,43,15,13,11700000000,11700000000,17900000000,5,0,0,0,0,13,6,4
+31,3271495075,94331935,"Quần đùi thể thao, short kaki nam Amazing, lật lai cá tính, lưng chun thoải mái, có dây rút",1,37,1,14,14900000000,14900000000,15900000000,5,0,0,0,0,14,5,3
+32,2333436012,94331935,"Áo trắng nữ, có size đại 80kg, sơ mi Amazing, vải KT silk mượt mát, tay cách điệu nhẹ nhàng, form chuẩn basic",0,22,13,11,13900000000,13900000000,15900000000,4.636363636363637,1,0,0,0,10,8,3
+33,7935149681,94331935,"Áo sơ mi nam cao cấp nhiều màu, có tới size đại 100kg, chất mềm mịn thoáng mát, somi vạt bầu form rộng, Amazing",0,46,12,16,20900000000,20900000000,22900000000,4.625,1,0,1,0,14,8,6
+34,9205280917,94331935,"Kaki short Amazing, quần nam lửng, lưng thun ,dây rút, big size, phong cách thể thao trẻ trung",2,40,10,12,17500000000,17500000000,18500000000,5,0,0,0,0,12,4,2
+35,4451079702,94331935,"Áo hoa văn hình học, sơ mi nam  Amazing, thiết kế họa tiết nhẹ nhàng lạ mắt, chất liệu nhập khẩu từ ấn Độ",0,20,7,9,20900000000,20900000000,27900000000,5,0,0,0,0,9,5,4
+36,2981020414,94331935,"Áo thun thể dục cổ tròn và cổ bẻ, đồng phục thể thao cho học sinh nam nữ các cấp, Amazing",2,68,5,19,7800000000,7800000000,10600000000,4.7368421052631575,0,1,0,2,16,9,6
+37,6270567900,94331935,"Quần short kaki nam Amazing, lưng chun, dây rút, lai lật phối kiểu, phong cách unisex thể thao năng động",0,17,1,7,14900000000,14900000000,15900000000,5,0,0,0,0,7,4,2
+38,4751979532,94331935,"Móc khóa mạ kẽm Amazing, đa chức năng, hàng tặng kèm khi mua thời trang thương hiêu Amazing",0,28,4,12,5000000000,5000000000,5000000000,5,0,0,0,0,12,5,5
+39,6234807016,94331935,"Áo sơ mi nam trắng cao cấp, chất vải mềm mướt, vạt ngang body, thương hiệụ Amazing",0,30,22,9,17900000000,17900000000,26900000000,4.888888888888889,0,0,0,1,8,3,0
+40,5361038665,94331935,"Áo sơ mi nam Amazing, họa tiết nhỏ tay dài, form regular, dáng rộng, size đại tới 100kg",1,32,7,11,18900000000,18900000000,20900000000,5,0,0,0,0,11,4,2
+41,4138706912,94331935,"Áo sơ mi họa tiết Amazing, chất vải mềm mát, dáng rộng, cộc tay, vạt ngang, có size cho người 105kg",0,28,5,11,11700000000,11700000000,17900000000,4.636363636363637,0,0,1,2,8,5,2
+42,9805460408,94331935,"Quần lửng kaki nam Amazing, lưng bo, dây rút, phong cách thể thao unisex",5,51,3,13,14900000000,14900000000,15900000000,5,0,0,0,0,13,3,2
+43,7034808381,94331935,"Áo sơ mi nam trắng Amazing, vạt ngang form body, đồng phục học sinh các cấp",2,52,21,11,17900000000,17900000000,26900000000,5,0,0,0,0,11,5,2
+44,8409931411,94331935,"Quần Baggy form suông Amazing lưng chun, dây rút, ống nhỏ, vải kaki co giãn nhẹ, phong cách Unisex Hàn Quốc",7,41,19,11,26900000000,26900000000,28500000000,5,0,0,0,0,11,1,1
+45,7171111954,94331935,"Quần short Amazing, kaki lưng thun dây rút, phong cách thể thao unisex, vải co giãn nhẹ",3,33,9,9,17500000000,17500000000,18500000000,5,0,0,0,0,9,2,2
+46,8305292491,94331935,"Quần nam lửng, lưng thun kaki Amazing, phong cách thể thao năng động, dáng thể thao",2,44,7,14,17500000000,17500000000,18500000000,4.928571428571429,0,0,0,1,13,7,7
+47,5044490906,94331935,"Áo sơ mi nam họa tiết trung niên cao cấp Amazing, form rộng, vạt ngang, tay ngắn, big size tới 105kg",0,29,17,9,19900000000,19900000000,32900000000,5,0,0,0,0,9,7,5
+48,4938698420,94331935,"Áo sơ mi họa tiết Amazing, chất vải mềm mát, dáng rộng, cộc tay, vạt ngang, có size cho người 105kg",0,16,1,8,11700000000,11700000000,17900000000,5,0,0,0,0,8,4,3
+49,8078663615,94331935,"Quần thể thao 3 sọc màu xanh cho bé trai, đồng phục đi học lưng chun, dây rút, đồ thể dục nam nữ các cấp, Amazing",8,97,10,26,7400000000,7400000000,11200000000,4.615384615384615,1,1,1,1,22,9,4
+50,7535158097,94331935,"Áo sơ mi nam Amazing màu trơn, thời trang trung niên, màu sắc nhã nhặn, vải KT sikl mềm mướt, big size",6,35,10,16,20900000000,20900000000,27900000000,4.9375,0,0,0,1,15,5,4
+51,7464978352,94331935,"Quần tây nam ống côn Amazing cao cấp, chất liệu co giãn, form body Hàn Quốc, ôm gọn",3,32,9,9,29900000000,29900000000,37900000000,5,0,0,0,0,9,2,1
+52,3732570725,94331935,"Áo sơ mi nam Amazing cao cấp, nhiều màu, nhiều size, vạt bầu, thân suông, tay dài, đường may tinh xảo",0,12,5,8,20900000000,20900000000,22900000000,5,0,0,0,0,8,5,4
+53,2333427271,94331935,"Áo sơ mi nữ Amazing, màu trắng, vải KT silk, size từ 40-80kg",0,17,7,7,13900000000,13900000000,15900000000,4.714285714285714,0,0,0,2,5,4,3
+54,8905525615,94331935,"Quần kaki lưng thun Baggy, thương hiệu Amazing cao cấp, thời trang trẻ trung, form suông, dáng thể thao Unisex",4,65,22,25,26900000000,26900000000,28500000000,4.6,2,0,1,0,22,7,5
+55,5141466683,94331935,"Áo sơ mi nam tay ngắn màu trơn, kỷ thuật may sắc xảo, chất liệu hút mồ hôi tốt, Amazing",0,36,10,9,19900000000,19900000000,19900000000,4.555555555555555,0,0,1,2,6,4,3
+56,3538789109,94331935,"Amazing somi cao cấp, áo nam họa tiết nghệ thuật, hoa văn hình học nho nhỏ, sơ mi vạt ngang, tay ngắn, big size",1,26,2,10,11700000000,11700000000,17900000000,4.6,1,0,0,0,9,4,1
+57,7265902353,94331935,"Quần tây âu Amazing cao cấp, phong cách Hàn Quốc, ống côn, form dáng ôm gọn slimfit, chất liệu co giãn",2,16,4,12,29900000000,29900000000,29900000000,5,0,0,0,0,12,5,3
+58,7064049864,94331935,"Áo sơ mi nam màu đen, phong cách Hàn, form body fit, chất liệu KT thun co giãn, hiệu Amazing",1,13,13,5,16900000000,16900000000,18900000000,5,0,0,0,0,5,3,2
+59,6868586968,94331935,"Áo sơ mi nam form body slim fit,  phong cách Hàn, không túi, vải màu trơn Bamboo mượt mát, hiệu Amazing",1,12,2,5,23900000000,23900000000,32900000000,5,0,0,0,0,5,2,0
+60,4661158442,94331935,"Áo sơ mi nam Amazing,  hoa văn trung niên, họa tiết nhỏ thanh lịch, thiết kế chấm bông lạ mắt, bigsize",3,25,7,10,18900000000,18900000000,20900000000,5,0,0,0,0,10,5,3
+61,7970421627,94331935,"Short kaki, lưng bo, quần lững Amazing, lai lật, trẻ trung, năng động, màu sắc trung tính unisex, bigsize",3,38,0,14,14900000000,14900000000,15900000000,4.928571428571429,0,0,0,1,13,5,5
+62,7435231627,94331935,"Áo sơ mi nam cao cấp nhiều màu, chất mềm mịn thoáng mát, vạt bầu form rộng, có tới size đại 100kg, Amazing",0,12,3,5,20900000000,20900000000,27900000000,5,0,0,0,0,5,2,2
+63,7068677878,94331935,"Quần Jogger kaki nam Amazing, dáng thể thao năng động, vải co giãn nhẹ, màu sắc trung tính, lai bo",1,10,2,5,26900000000,26900000000,28500000000,4.4,0,1,0,0,4,2,1
+64,4744492690,94331935,"Áo somi nam hoa văn Amazing, dáng rộng, tay ngắn, vạt ngang, dành cho người trung niên, size đại tới 105kg",0,13,5,6,19900000000,19900000000,24900000000,5,0,0,0,0,6,2,1
+65,2333367004,94331935,"Áo sơ mi nữ trắng Amazing, đồng phục học sinh, tay cách điệu nhẹ, chiết 4 ben eo, chất vải mềm mát, 40-80kg",0,17,11,6,12900000000,12900000000,15900000000,5,0,0,0,0,6,1,0
+66,2176139720,94331935,"Áo màu đỏ đô, sơ mi nam Amazing cao cấp, form chuẩn basic, thân suông, dài tay, vạt bầu, chất liệu mượt mát",2,33,10,13,20900000000,20900000000,25900000000,4.923076923076923,0,0,0,1,12,5,4
+67,9640617037,94331935,"Quần sọt nam thương hiêu Amazing, phong cách thể thao, short kaki lưng thun unisex, có big size",1,17,1,1,17500000000,17500000000,21900000000,5,0,0,0,0,1,0,0
+68,9482301120,94331935,"Áo sơ mi họa tiết Amazing, chất vải mềm mát, dáng rộng, cộc tay, vạt ngang, có size cho người 105kg",0,6,2,2,11700000000,11700000000,17900000000,5,0,0,0,0,2,1,1
+69,3764160281,94331935,"Áo somi nam vải co giãn, form body fit phong cách Hàn, thời trang Amazing trẻ trung",0,11,2,2,18900000000,18900000000,18900000000,5,0,0,0,0,2,2,2
+70,7571409015,94331935,"Quần Baggy Amazing, lưng thun, form suông Unisex, chất liệu kaki co giãn cao cấp, phong cách Hàn Quốc",21,67,39,24,26900000000,26900000000,28500000000,5,0,0,0,0,24,7,6
+71,11720226265,94331935,"Áo họa tiết ngắn tay Amazing, hoa văn rồng phượng, vải tole siêu mát mẻ mùa hè, form rộng, vạt ngang,  size đại",5,34,4,11,17900000000,17900000000,17900000000,5,0,0,0,0,11,3,1
+72,4969841498,94331935,"Short kaki lưng thun, quần đùi Amazing cao cấp,chất vải co giãn nhẹ, màu sắc trẻ trung",1,33,11,9,17500000000,17500000000,18500000000,5,0,0,0,0,9,3,2
+73,8978442528,94331935,"Quần tây nam màu xanh Amazing, ống đứng, không ly, đồng phục học sinh, đồng phục công sở",1,9,2,4,23900000000,23900000000,25500000000,5,0,0,0,0,3,2,1
+74,5942126873,94331935,"Áo sơ mi nam màu trơn ngắn tay, chất vải mềm mịn thoáng mát, tà bầu, form rộng, thương hiệu Amazing",2,11,0,6,19900000000,19900000000,24900000000,5,0,0,0,0,6,1,2
+75,9909921799,94331935,"Bigsize, quần Baggy lưng thun hiệu Amazing, dáng thể thao Unisex, form suông, vải kaki co giãn màu đen và xám",2,37,19,14,26900000000,26900000000,28500000000,4.857142857142857,0,0,1,0,13,6,5
+76,7134992321,94331935,"Áo sơ mi nam màu hồng vôi Amazing, có size đại 100kg, chất mềm mịn thoáng mát, somi vạt bầu form rộng, áo tay dài",0,19,19,8,20900000000,20900000000,27900000000,4.875,0,0,0,1,7,4,4
+77,6369383912,94331935,"Quần Jogger big size, kaki nam Amazing, gấu bo chun, dáng thể thao năng động, vải co giãn nhẹ, màu rêu lính",1,11,6,8,26900000000,26900000000,28500000000,5,0,0,0,0,8,3,3
+78,4142539158,94331935,"Áo somi nam màu trơn tay ngắn Amazing, vạt bầu, chất vải mềm mại, nhẹ nhàng, thời trang trung niên cao cấp",1,20,2,4,19900000000,19900000000,19900000000,5,0,0,0,0,4,1,1
+79,3976322434,94331935,"Bigsize, Short Amazing kaki lưng thun, quần lửng cao cấp, màu đen và trắng trẻ trung, chất vải co giãn nhẹ",0,6,2,3,17500000000,17500000000,18500000000,5,0,0,0,0,3,2,1
+80,3435330095,94331935,"Áo màu Amazing sơ mi nam trơn cao cấp, somi form basic chuẩn, dáng vạt bầu, thân suông, tay dài, thời trang công sở",0,7,1,4,20900000000,20900000000,27900000000,5,0,0,0,0,4,2,1
+81,9605533691,94331935,"Quần ống suông Baggy, chất liệu kaki co giãn cao cấp, thương hiệu Amazing, lưng thun, phong cách Unisex Hàn Quốc",0,14,6,5,26900000000,26900000000,28500000000,4.8,0,0,0,1,4,1,0
+82,6634993228,94331935,"Áo somi nam màu trơn tay dài Amazing, thời trang công sở trung niên thanh lịch, size từ 50-100kg",0,13,6,6,20900000000,20900000000,27900000000,4.333333333333333,1,0,0,0,5,3,3
+83,4671089487,94331935,"Quần đùi kaki Amazing, sọt lưng thun nam dáng thể thao unisex, short có dây rút",2,14,3,5,17500000000,17500000000,18500000000,4.6,0,0,1,0,4,2,2
+84,11519342686,94331935,"Áo sơ mi nam trắng tay dài  Amazing, đồng phục học sinh các cấp, size từ 20-95kg, form suông, vạt bầu",2,27,11,9,12200000000,12200000000,23600000000,4.777777777777778,0,0,1,0,8,4,2
+85,7834996576,94331935,"Áo sơ mi nam tay dài màu hồng vôi, form rộng regular, vải KT silk mềm mát, thời trang công sở Amazing",1,7,3,4,20900000000,20900000000,27900000000,5,0,0,0,0,4,1,1
+86,7669369989,94331935,"Amazing, quần Jogger kaki nam màu xám, phong cách thể thao khỏe khoắn, chất liệu nhập khẩu, co giãn nhẹ, bigsize",0,10,3,4,26900000000,26900000000,28500000000,5,0,0,0,0,5,1,2
+87,7363013898,94331935,"Áo sơ mi nam cao cấp Amazing, nhiều size, dáng rộng Regular, chuẩn size công sở, chất vải trơn láng, mịn, mướt",0,9,5,4,34900000000,34900000000,36900000000,5,0,0,0,0,4,2,2
+88,6351149374,94331935,"Áo sơ mi nam họa tiết hình học đẹp mắt, thiết kế hoa văn nho nhỏ, áo form chuẩn basic, hiệu Amazing",0,4,2,2,20900000000,20900000000,27900000000,5,0,0,0,0,2,0,0
+89,4838700457,94331935,"Áo sơ mi họa tiết Amazing, chất vải mềm mát, dáng rộng, cộc tay, vạt ngang, có size cho người 105kg",0,5,0,4,11700000000,11700000000,17900000000,5,0,0,0,0,4,0,0
+90,4343857517,94331935,"Áo sơ mi nam trắng tay dài, form body ôm gọn, chất liệu KT thun co giãn, style Hàn Quốc, hiệu Amazing",0,7,3,3,18900000000,18900000000,18900000000,5,0,0,0,0,3,0,1
+91,3235331295,94331935,"Amazing, áo sơ mi nam trung tuổi, chuẩn size basic, form suông, đa dạng sắc màu, chất liệu kt silk mềm mướt",0,17,2,7,20900000000,20900000000,25900000000,5,0,0,0,0,7,2,2
+92,3851180883,94331935,"Áo sơ mi họa tiết nhỏ Amazing, vải kate mềm mịn, dáng áo rộng, tay dài, vạt bầu, có size lớn",0,4,0,2,20900000000,20900000000,27900000000,4,0,0,1,0,1,1,1
+93,11104089336,94331935,"Áo sơ mi nam màu Amazing, thời trang công sở, size tới 100kg, form chuẩn, vạt bầu, tay dài nhã nhặn",0,4,1,3,20900000000,20900000000,22900000000,5,0,0,0,0,3,3,3
+94,4735158430,94331935,"Áo sơ mi nam form rộng Amazing, vải KT silk mềm mát, thời trang công sở cao cấp, có size lớn",0,6,2,5,20900000000,20900000000,22900000000,4.4,0,1,0,0,4,3,2
+95,4263016950,94331935,"Áo sơ mi công sở màu đô, form dáng basic, áo nam Amazing cao cấp, nhiều size số, vải mịn mát, tay dài, đuôi tôm",0,3,2,2,34900000000,34900000000,36900000000,5,0,0,0,0,2,0,0
+96,13353517367,94331935,"Áo sơ mi nam tay dài Amazing màu đỏ đô, chất liệu KT CVC 65/35 hút mồ hôi rất tốt, thân suông, dáng rộng, lai bầu",2,17,2,6,20900000000,20900000000,22900000000,5,0,0,0,0,6,4,4
+97,9944104271,94331935,"Quần Jogger kaki nam Amazing, dáng thể thao năng động, vải co giãn nhẹ, màu sắc trung tính, lai bo, màu cafe đậm",6,14,2,6,26900000000,26900000000,28500000000,5,0,0,0,0,6,3,3
+98,5671345413,94331935,"Short kaki Amazing, quần lửng nam lưng bo, dây rút, màu sắc trung tính, phong cách thể thao năng động",1,13,0,4,14900000000,14900000000,15900000000,4.5,0,0,1,0,3,1,0
+99,4234992009,94331935,"Áo sơ mi nam màu xám Amazing, vải KT silk mềm mượt, thời trang công sở trung niên, size tới 95kg",1,7,11,3,20900000000,20900000000,27900000000,5,0,0,0,0,3,1,1

@@ -1,0 +1,123 @@
+index,name,link,category,country,shop_location,user_id,shop_id,cancellation_rate,response_rate,rating_normal,rating_bad,rating_good,total_avg_star,follower_count,following_count,item_count
+0,Adidas Official Store,https://shopee.vn/adidasofficialstore,Thể Thao & Du Lịch,VN,TP. Hồ Chí Minh,71011096,71009635,7,94,1121,1290,50564,4.828419,776853,7,11319
+1,Aolikes Sports,https://shopee.vn/aolikessports,Thể Thao & Du Lịch,VN,Hà Nội,219839547,219835490,0,72,33,5,1235,4.872727,4336,7,179
+2,Bamozo,https://shopee.vn/bamozo_official,Thể Thao & Du Lịch,VN,Hà Nội,81332290,81330814,0,96,206,64,12063,4.89452,85887,166,58
+3,Camp Out,https://shopee.vn/campout.vn,Thể Thao & Du Lịch,VN,Khánh Hòa,373470172,373450595,0,71,5,2,436,4.940048,4328,5,136
+4,Decathlon,https://shopee.vn/decathlon_vietnam,Thể Thao & Du Lịch,VN,Hà Nội,272531715,272527398,0,96,340,92,22710,4.919975,141628,1,1076
+5,AGV Việt Nam,https://shopee.vn/agv_vietnam,Ô tô - xe máy - xe đạp,VN,TP. Hồ Chí Minh,338405583,338386008,0,31,0,0,13,4.923077,1681,2,159
+6,Bizol,https://shopee.vn/bizolvn,Ô tô - xe máy - xe đạp,VN,Hà Nội,23326812,23325476,0,95,9,5,353,4.83378,274,3,63
+7,Giá tốt 561,https://shopee.vn/giadungtuyetnhi,Ô tô - xe máy - xe đạp,VN,Hà Nội,8493888,8492592,0,83,497,243,13504,4.806952,6325,113,430
+8,Hà Thành,https://shopee.vn/xemayhathanh,Ô tô - xe máy - xe đạp,VN,TP. Hồ Chí Minh,230618365,230613713,100,51,1,2,92,4.858586,1096,22,29
+9,Lifetech Store,https://shopee.vn/lifetechstore,Ô tô - xe máy - xe đạp,VN,Hà Nội,432432279,432412702,0,90,15,4,607,4.882255,59521,1,19
+10,AB InBev VN,https://shopee.vn/abinbevvietnam,Bách hóa Online,VN,TP. Hồ Chí Minh,145531687,145529863,0,88,181,182,27658,4.95269,115170,3,68
+11,An Thịnh Việt,https://shopee.vn/anthinhvietofficial,Bách hóa Online,VN,TP. Hồ Chí Minh,215379158,215375363,0,59,9,5,438,4.868664,2089,6,69
+12,Bánh kẹo Bảo Minh,https://shopee.vn/banhkeobaominhchgtsp,Bách hóa Online,VN,Hà Nội,201419830,201416673,0,77,37,7,2451,4.93272,4740,36,99
+13,Bibica,https://shopee.vn/bibica_corporation,Bách hóa Online,VN,TP. Hồ Chí Minh,213992910,213989179,0,97,43,38,4886,4.929063,11088,4,76
+14,Cà phê sạch,https://shopee.vn/caphesachorg,Bách hóa Online,VN,TP. Hồ Chí Minh,237244259,237239065,0,100,0,0,42,5,57043,10,34
+15,ABG Official Store,https://shopee.vn/abg_official_store,Nhà Cửa & Đời Sống,VN,Hà Nội,462141313,462121736,0,93,13,7,547,4.85689,1109,2,201
+16,AN PHÚ FURNITURE DECOR,https://shopee.vn/apf.decor,Nhà Cửa & Đời Sống,VN,Hà Nội,538871096,538851517,0,78,13,21,426,4.712446,1634,11,96
+17,Ánh Chinh,https://shopee.vn/dienmayanhchinh,Nhà Cửa & Đời Sống,VN,Thái Bình,165020062,165017863,0,80,21,11,1090,4.900542,1697,622,790
+18,BEYOURs HCM,https://shopee.vn/noithatbeyours,Nhà Cửa & Đời Sống,VN,TP. Hồ Chí Minh,39334145,39332759,0,97,348,128,24440,4.916339,480013,537,98
+19,Brita,https://shopee.vn/binhlocnuocbrita,Nhà Cửa & Đời Sống,VN,TP. Hồ Chí Minh,93767411,93765933,0,87,59,29,3622,4.908472,112032,1,22
+20,aajwszsleh,https://shopee.vn/antahn_official,Sắc Đẹp,VN,Hà Nội,769120692,769136938,0,92,2,7,605,4.873188,255,1,17
+21,Acwell Official Vietnam,https://shopee.vn/acwell_vn,Sắc Đẹp,VN,Hà Nội,425145122,425125545,0,9,0,0,83,4.975,322,1,17
+22,AHC,https://shopee.vn/ahc_officialstore,Sắc Đẹp,VN,TP. Hồ Chí Minh,219196758,219192749,0,95,112,59,12997,4.94338,117299,0,59
+23,Alive!,https://shopee.vn/naturesway_officialstore,Sắc Đẹp,VN,TP. Hồ Chí Minh,97104616,97103138,57,27,17,5,401,4.832952,872,83,16
+24,Amplen,https://shopee.vn/amplen.official,Sắc Đẹp,VN,Hà Nội,599753083,599733498,0,95,0,0,92,4.978261,695,1,25
+25,Acer Flagship Store,https://shopee.vn/acer_flagshipstore,Máy tính & Laptop,VN,TP. Hồ Chí Minh,333449604,333430029,0,95,4,5,230,4.852941,177236,4,130
+26,Asus Hàng Chính Hiệu,https://shopee.vn/asus_flagship_hch_store,Máy tính & Laptop,VN,TP. Hồ Chí Minh,139251418,139249594,0,73,26,8,1001,4.867761,74218,7,377
+27,bebapcon123,https://shopee.vn/bebapcon123,Máy tính & Laptop,VN,Đà Nẵng,67353543,67352086,0,57,0,0,0,5,4,1,47
+28,Corsair,https://shopee.vn/corsair_official_store_vn,Máy tính & Laptop,VN,Hà Nội,251002239,251001764,0,65,16,8,1271,4.920684,85804,2,115
+29,Dell Hàng Chính Hiệu,https://shopee.vn/dell_flagship_hch_store,Máy tính & Laptop,VN,TP. Hồ Chí Minh,409675135,409655558,0,84,0,0,2,5,57,2,59
+30,Bảo Hiểm PVI EZIN,https://shopee.vn/baohiempviezin,Voucher & Dịch vụ,VN,TP. Hồ Chí Minh,451816176,451796599,0,36,3,2,94,4.827957,5428,1,25
+31,Chim Cánh Cụt Travel JSC,https://shopee.vn/chimcanhcutjsc,Voucher & Dịch vụ,VN,TP. Hồ Chí Minh,442198343,442178766,0,34,0,0,47,5,61,1,25
+32,MIC Official Store,https://shopee.vn/baohiemquandoi_mic_official,Voucher & Dịch vụ,VN,Hà Nội,449211127,449191550,0,91,0,0,309,5,4914,9,6
+33,Việt Úc Tourist Store,https://shopee.vn/vietuctourist.store,Voucher & Dịch vụ,VN,TP. Hồ Chí Minh,584832338,584812753,0,72,0,0,6,5,89,1,17
+34,Akaso,https://shopee.vn/akaso.vn,Máy ảnh - Máy quay phim,VN,Quốc Tế,134871262,134869438,0,84,4,1,40,4.627907,122,1,8
+35,Ekleva,https://shopee.vn/ekleva.vn,Máy ảnh - Máy quay phim,VN,Quốc Tế,200755244,200752110,0,68,3,1,25,4.551724,61,0,55
+36,Kingston Official Store,https://shopee.vn/kingston_officialstore,Máy ảnh - Máy quay phim,VN,Hà Nội,312906560,312886975,1,50,134,78,4552,4.821725,19936,36,87
+37,Sandisk Viễn Thông,https://shopee.vn/tinhocvienthong,Máy ảnh - Máy quay phim,VN,TP. Hồ Chí Minh,8468601,8467305,0,62,1277,629,62594,4.863849,50482,51,518
+38,tenda_official_store,https://shopee.vn/tenda_official_store,Máy ảnh - Máy quay phim,VN,TP. Hồ Chí Minh,226709187,226704762,0,98,101,50,4352,4.865628,60372,0,52
+39,A Tous,https://shopee.vn/atous.clothing,Thời Trang Nữ,VN,Hà Nội,110430317,110428736,0,96,35,9,2003,4.917331,18831,66,183
+40,Air Space,https://shopee.vn/air_space.official,Thời Trang Nữ,VN,TP. Hồ Chí Minh,270019270,270015381,0,55,248,64,8780,4.859605,105848,1,2439
+41,Banawa Adlut Club,https://shopee.vn/banawa.adultclub,Thời Trang Nữ,VN,TP. Hồ Chí Minh,78597054,78595580,0,98,127,30,4150,4.858807,83268,60,51
+42,Bloomode,https://shopee.vn/bloomode,Thời Trang Nữ,VN,TP. Hồ Chí Minh,15158,15158,0,63,122,34,3618,4.849663,38400,0,191
+43,Bu Bigsize Young,https://shopee.vn/bubigsizeyoung,Thời Trang Nữ,VN,Hà Nội,265836442,265833691,0,99,72,24,10326,4.961657,125582,59,670
+44,Aldo,https://shopee.vn/aldovietnamofficial,Túi Ví Nữ,VN,TP. Hồ Chí Minh,257822666,257821310,0,95,278,175,5109,4.700036,156875,16,2988
+45,Biti's,https://shopee.vn/bitisvn,Túi Ví Nữ,VN,TP. Hồ Chí Minh,25212885,25211549,0,61,1108,516,84670,4.915222,494570,4,586
+46,CNT,https://shopee.vn/tuixachcnt,Túi Ví Nữ,VN,TP. Hồ Chí Minh,1007103,1006380,0,79,1026,368,55074,4.894315,119770,349,444
+47,Dolanto,https://shopee.vn/dolanto.vn,Túi Ví Nữ,VN,TP. Hồ Chí Minh,309826768,309807183,0,82,209,47,10037,4.885327,150275,1,65
+48,Floralpunk Official Store,https://shopee.vn/floralpunkofficial,Túi Ví Nữ,VN,TP. Hồ Chí Minh,353006107,352986532,0,93,190,63,10422,4.904892,126061,1,201
+49,Abbott,https://shopee.vn/abbottofficial,Mẹ & Bé,VN,TP. Hồ Chí Minh,148046849,148045025,0,96,1245,894,149446,4.942116,184873,3,206
+50,Aoberst,https://shopee.vn/aoberst_vietnam,Mẹ & Bé,VN,Hà Nội,138081896,138080072,0,39,9,5,313,4.837535,616,1247,36
+51,Baby Tattoo,https://shopee.vn/pigeonvnofficial,Mẹ & Bé,VN,TP. Hồ Chí Minh,163070105,163067971,0,95,166,74,16573,4.945523,91563,2,146
+52,BabyZ,https://shopee.vn/babyz.official,Mẹ & Bé,VN,Hà Nội,253421192,253420541,2,94,512,212,34892,4.916515,90632,18,876
+53,Bobby,https://shopee.vn/bobby_officialstore,Mẹ & Bé,VN,TP. Hồ Chí Minh,63523369,63521925,0,91,2742,2242,277610,4.930938,182975,2,464
+54,cooperlpetpremium,https://shopee.vn/cooperlpetpremium,Thú cưng,VN,TP. Hồ Chí Minh,378397905,378378328,0,57,0,0,144,5,12528,90,15
+55,Pedigree,https://shopee.vn/mars_petcare,Thú cưng,VN,TP. Hồ Chí Minh,55065996,55064572,0,83,681,761,65397,4.919253,307538,5,173
+56,Whiskas,https://shopee.vn/mars_petcare,Thú cưng,VN,TP. Hồ Chí Minh,55065996,55064572,0,83,681,761,65397,4.919253,307538,5,173
+57,Á Châu Books,https://shopee.vn/a_chau_books,Nhà Sách Online,VN,Hà Nội,109547363,109545884,0,83,23,13,3948,4.953823,5380,48,279
+58,Amak,https://shopee.vn/nhasachamak,Nhà Sách Online,VN,Hà Nội,40471998,40470612,0,59,949,209,82484,4.940578,49066,1,220
+59,Anbert Manga,https://shopee.vn/anbertmangashop,Nhà Sách Online,VN,Hà Nội,5641209,5639914,3,60,544,145,42351,4.929366,30723,10,618
+60,Bailey,https://shopee.vn/thuyanhaladin,Nhà Sách Online,VN,Hà Nội,193936410,193933541,0,73,25,2,1933,4.941237,3348,37,32
+61,Betabooks,https://shopee.vn/betabooks,Nhà Sách Online,VN,Hà Nội,284641763,284634361,0,98,398,95,38186,4.940602,65180,15,1746
+62,Abbieoh,https://shopee.vn/abbie.oh,Thời trang trẻ em,VN,Hà Nội,327972298,327952723,0,90,77,19,9180,4.957481,92892,18,153
+63,Arich Shop,https://shopee.vn/shopsun_10,Thời trang trẻ em,VN,TP. Hồ Chí Minh,107554011,107552532,0,88,43,16,6893,4.963591,27902,1250,109
+64,Balabala Flagship Store,https://shopee.vn/balabala_vietnam,Thời trang trẻ em,VN,TP. Hồ Chí Minh,371768343,371748766,0,78,0,1,148,4.972222,1751,47,1213
+65,Bita's,https://shopee.vn/bitas_store,Thời trang trẻ em,VN,TP. Hồ Chí Minh,100704567,100703088,0,65,115,61,7598,4.905908,11252,5,367
+66,Chaang,https://shopee.vn/chaangvietnam,Thời trang trẻ em,VN,Hà Nội,24408879,24407543,0,93,298,170,23202,4.923843,73582,12,923
+67,Acome,https://shopee.vn/acome_official_store,Điện Thoại và Phụ Kiện,VN,TP. Hồ Chí Minh,277279801,277274640,0,100,428,206,24610,4.896052,38610,5,84
+68,Apple,https://shopee.vn/apple_flagship_store,Điện Thoại và Phụ Kiện,VN,TP. Hồ Chí Minh,88203157,88201679,0,95,450,510,33743,4.892503,414965,1,230
+69,Baseus Official Store,https://shopee.vn/baseus_official_store,Điện Thoại và Phụ Kiện,VN,TP. Hồ Chí Minh,172257620,172255202,0,51,420,338,15760,4.82195,36358,1,439
+70,borofone.official,https://shopee.vn/borofone.official,Điện Thoại và Phụ Kiện,VN,Hà Nội,116596588,116594764,0,84,214,166,13424,4.888287,26943,16,56
+71,Divoom,https://shopee.vn/divoom_flagship_store,Điện Thoại và Phụ Kiện,VN,TP. Hồ Chí Minh,153130935,153129058,0,96,36,12,2907,4.946471,101257,3,41
+72,Ahiha Jewelry,https://shopee.vn/ahiha.jewelry,Phụ Kiện & Trang Sức Nữ,VN,Đà Nẵng,171474898,171472496,0,91,1,0,2289,4.99635,4487,31,52
+73,Anta Jewelry,https://shopee.vn/anta.officialstore,Phụ Kiện & Trang Sức Nữ,VN,Hà Nội,230320693,230316057,0,89,434,379,19978,4.823493,75170,0,275
+74,Bảo Tín Mạnh Hải Official,https://shopee.vn/baotinmanhhai_official,Phụ Kiện & Trang Sức Nữ,VN,Hà Nội,608144182,608124597,0,61,3,3,140,4.833333,18594,2,111
+75,CAPMAN,https://shopee.vn/cap.man,Phụ Kiện & Trang Sức Nữ,VN,TP. Hồ Chí Minh,329415609,329396034,0,100,259,80,43036,4.953281,230228,0,124
+76,Doji Official Store,https://shopee.vn/quatangvatrangsucdoji,Phụ Kiện & Trang Sức Nữ,VN,Hà Nội,202898268,202895087,0,66,2,3,241,4.913793,6671,0,174
+77,Bảo Thanh,https://shopee.vn/donghobaothanh,Đồng Hồ,VN,Hà Nội,131642415,131640591,0,39,0,0,20,4.913043,10562,3,551
+78,Curnon,https://shopee.vn/curnonwatch,Đồng Hồ,VN,Hà Nội,52638256,52636868,0,97,109,32,7327,4.92174,314208,4,91
+79,Đồng Hồ Julius,https://shopee.vn/donghottd,Đồng Hồ,VN,TP. Hồ Chí Minh,14288135,14286831,0,92,68,43,3739,4.886023,80836,35,507
+80,Hannah Martin,https://shopee.vn/hannahmartinofficial,Đồng Hồ,VN,Hà Nội,414701693,414682116,3,65,20,12,1241,4.889764,4199,2,27
+81,Julius Như Quỳnh,https://shopee.vn/nhuquynhwatchjulius,Đồng Hồ,VN,Khánh Hòa,118352787,118350963,0,79,0,0,74,5,1874,235,658
+82,Alobuy,https://shopee.vn/alobuy_official_store,Thiết Bị Điện Tử,VN,TP. Hồ Chí Minh,18647333,18645997,0,86,306,131,8496,4.806433,8847,29,855
+83,Ariston Official Store,https://shopee.vn/ariston_official_store,Thiết Bị Điện Tử,VN,TP. Hồ Chí Minh,244549213,244543449,0,90,32,25,573,4.654896,2688,1,21
+84,Bảo Châu Electric,https://shopee.vn/baochauelec_2005,Thiết Bị Điện Tử,VN,Hà Nội,457872444,457852867,0,55,0,0,13,4.916667,92,9,62
+85,Braun,https://shopee.vn/homeno1,Thiết Bị Điện Tử,VN,TP. Hồ Chí Minh,158821744,158819721,0,100,15,5,1432,4.937716,7429,5,142
+86,Coocaa Official Store,https://shopee.vn/coocaa_official_store,Thiết Bị Điện Tử,VN,TP. Hồ Chí Minh,131203485,131201661,0,100,109,92,4596,4.817836,164985,5,27
+87,Adda,https://shopee.vn/depthailannam,Giày Dép Nam,VN,TP. Hồ Chí Minh,311606059,311586474,0,85,37,19,2412,4.904938,8974,5,95
+88,Bita's,https://shopee.vn/bitas_store,Giày Dép Nam,VN,TP. Hồ Chí Minh,100704567,100703088,0,65,115,61,7598,4.905908,11252,5,367
+89,Deci,https://shopee.vn/decivietnam,Giày Dép Nam,VN,TP. Hồ Chí Minh,280837312,280830754,0,91,36,22,3803,4.930385,10736,181,97
+90,Drake,https://shopee.vn/drakedangkhoa,Giày Dép Nam,VN,TP. Hồ Chí Minh,76336019,76334547,0,81,34,5,4711,4.952673,81125,1,1524
+91,forshoes.vn,https://shopee.vn/forshoes.vn,Giày Dép Nam,VN,Hải Phòng,446783759,446764182,2,98,0,0,165,5,310,3,51
+92,Alilo Offcial,https://shopee.vn/alilo_official_store,Đồ chơi,VN,TP. Hồ Chí Minh,445884248,445864671,0,100,0,0,9,4.857143,40872,16,11
+93,Baby Plaza,https://shopee.vn/babyplaza_official_store,Đồ chơi,VN,TP. Hồ Chí Minh,12024380,12023078,0,67,26,15,1491,4.890482,4722,6,211
+94,Đồ Chơi Hoàn Thành,https://shopee.vn/dochoihoanthanhvn,Đồ chơi,VN,Hưng Yên,306130927,306111342,0,99,23,2,2453,4.942496,5973,3,41
+95,Globber,https://shopee.vn/globbervietnam,Đồ chơi,VN,TP. Hồ Chí Minh,116537010,116535186,0,85,2,0,43,4.886364,682,7,42
+96,Intex,https://shopee.vn/intex_vietnam,Đồ chơi,VN,Hà Nội,120542536,120540714,0,96,147,70,10889,4.917826,65351,315,496
+97,AC MEN,https://shopee.vn/acmenfashion,Thời Trang Nam,VN,TP. Hồ Chí Minh,324391879,324372280,0,40,5,1,246,4.899194,4953,21,39
+98,Amazing,https://shopee.vn/amazingthoitrang,Thời Trang Nam,VN,TP. Hồ Chí Minh,94333413,94331935,0,97,42,18,2075,4.881585,2162,0,206
+99,Aristino,https://shopee.vn/aristinovietnam,Thời Trang Nam,VN,Hà Nội,194101233,194098340,0,73,71,48,4145,4.892345,22585,386,110
+100,Anh Thơ,https://shopee.vn/anhtholeather,Thời Trang Nam,VN,TP. Hồ Chí Minh,5852989,5851689,0,99,380,140,20012,4.883584,144262,191,352
+101,Basic Man,https://shopee.vn/basicman_official,Thời Trang Nam,VN,Hà Nội,425027703,425008126,0,73,92,42,4111,4.849785,6345,65,71
+102,Aldo,https://shopee.vn/aldovietnamofficial,Giày Dép Nữ,VN,TP. Hồ Chí Minh,257822666,257821310,0,95,278,175,5109,4.700036,156875,16,2988
+103,Biti's,https://shopee.vn/bitisvn,Giày Dép Nữ,VN,TP. Hồ Chí Minh,25212885,25211549,0,61,1108,516,84670,4.915222,494570,4,586
+104,Cillie,https://shopee.vn/cillie.official,Giày Dép Nữ,VN,TP. Hồ Chí Minh,14060725,14059421,0,92,185,58,12945,4.916858,131603,21,212
+105,D&A,https://shopee.vn/dongan_vn,Giày Dép Nữ,VN,Hà Nội,23331344,23330008,0,70,158,63,4590,4.823344,7793,164,235
+106,Evashoes,https://shopee.vn/evashoes.official,Giày Dép Nữ,VN,Hà Nội,66374964,66373508,0,72,133,54,4350,4.8299,20907,155,163
+107,Alma Mart,https://shopee.vn/almamart_official,Thiết Bị Điện Gia Dụng,VN,TP. Hồ Chí Minh,490009660,489990082,0,96,0,1,47,4.893617,274,1,165
+108,APC by Schneider Electric,https://shopee.vn/apcbyanphat,Thiết Bị Điện Gia Dụng,VN,Hà Nội,269222055,269218366,0,50,3,1,81,4.797468,923,1,52
+109,Baseus Official Store,https://shopee.vn/baseus_official_store,Thiết Bị Điện Gia Dụng,VN,TP. Hồ Chí Minh,172257620,172255202,0,51,420,338,15760,4.82195,36358,1,439
+110,cleansui_official_store,https://shopee.vn/toshiba_hcm_store,Thiết Bị Điện Gia Dụng,VN,TP. Hồ Chí Minh,720985766,720966181,0,75,0,0,1,5,23,1,218
+111,Cuckoo,https://shopee.vn/cuckoo_flagship_store,Thiết Bị Điện Gia Dụng,VN,Hà Nội,131175016,131173192,0,81,25,11,1009,4.859768,229368,1,55
+112,aht_corp.officialstore,https://shopee.vn/aht_corp.officialstore,Giặt giũ & Chăm sóc nhà cửa,VN,TP. Hồ Chí Minh,41030381,41028995,0,96,9,3,614,4.906511,3988,61,86
+113,Attack Official Store,https://shopee.vn/kao_officialstore,Giặt giũ & Chăm sóc nhà cửa,VN,TP. Hồ Chí Minh,290787734,290768497,0,100,0,0,10,5,84,2,60
+114,Fineline,https://shopee.vn/finelineofficial,Giặt giũ & Chăm sóc nhà cửa,VN,Hà Nội,334811937,334792362,0,73,0,0,56,4.981481,298,2,25
+115,Hapaku HN,https://shopee.vn/hapaku_officialstore,Giặt giũ & Chăm sóc nhà cửa,VN,Hà Nội,50232939,50231551,0,82,80,25,6607,4.93278,16649,223,59
+116,Mao Bao,https://shopee.vn/maobaovn,Giặt giũ & Chăm sóc nhà cửa,VN,TP. Hồ Chí Minh,95135922,95134444,0,96,42,9,5874,4.960818,3536,3,66
+117,abbottfreestylelibre,https://shopee.vn/abbottfreestylelibre,Sức Khỏe,VN,TP. Hồ Chí Minh,729648254,729628669,0,61,0,0,27,5,223,0,14
+118,aishitoto_officialstore,https://shopee.vn/aishitoto_officialstore,Sức Khỏe,VN,TP. Hồ Chí Minh,232857537,232852724,0,85,1,0,148,4.959459,40663,6,71
+119,Badger Offcial Store,https://shopee.vn/badger_officialstore,Sức Khỏe,VN,TP. Hồ Chí Minh,85552909,85551432,0,100,5,3,889,4.959184,3102,15,22
+120,Bebalance VN,https://shopee.vn/bebalancevietnam_officialstore,Sức Khỏe,VN,TP. Hồ Chí Minh,631080770,631061185,0,97,1,0,67,4.967213,2316,0,101
+121,bongbachtuyet,https://shopee.vn/bongbachtuyet,Sức Khỏe,VN,TP. Hồ Chí Minh,239363842,239358464,0,99,133,78,17382,4.947273,163575,2,83
