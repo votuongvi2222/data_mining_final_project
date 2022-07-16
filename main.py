@@ -11,17 +11,6 @@ import pandas as pd
 import os
 
 HEADERS = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
-# HEADERS = {
-#     "accept": "*/*",
-#     "accept-language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
-#     "sec-fetch-dest": "empty",
-#     "sec-fetch-mode": "cors",
-#     "sec-fetch-site": "same-origin",
-#     "x-api-source": "pc",
-#     "x-requested-with": "XMLHttpRequest",
-#     "x-shopee-language": "vi",
-#     "cookie": "votuongvi"
-# }
         
 WEB_URL = 'https://shopee.vn/'
 MALL_ALL_BRANDS_URL = 'https://shopee.vn/mall/brands/'
@@ -333,18 +322,18 @@ def save_comments_to_csv(fn, comments):
 
            
 if __name__ == '__main__':
-    # categories = get_all_product_categories()
-    # all_brands = []
+    categories = get_all_product_categories()
+    all_brands = []
 
-    # for category in categories:
-    #     brands = get_brands(category, limit=5)
+    for category in categories:
+        brands = get_brands(category, limit=5)
 
-    #     all_brands = all_brands + brands
+        all_brands = all_brands + brands
 
-    # save_brands_to_csv(all_brands)
+    save_brands_to_csv(all_brands)
 
     df = pd.read_csv('./out/ShopeeMall.csv')
-    # get_products_per_brand(100, df.shop_id[108:], 0)
+    get_products_per_brand(100, df.shop_id, 0)
     # print(df.shop_id[:106])
     crawled_shop_ids = []
     for shop_id in df.shop_id:
@@ -354,7 +343,7 @@ if __name__ == '__main__':
             crawled_shop_ids.append(shop_id)
     
     # print(crawled_shop_ids[39:])
-    get_comments_per_brand(crawled_shop_ids[39:])
+    get_comments_per_brand(crawled_shop_ids)
 
 
 
