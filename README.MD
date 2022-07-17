@@ -1,6 +1,6 @@
 # *Requirements*:
-##### - Install web driver (version same as your chrome version)
+##### - Install chrome driver (the same version as chrome's version)
 ##### - Install libraries: ```!pip install requirements.txt```
 # *Run*:
-##### - Cd to root folder of project (FINAL_PROJECT)
-##### - At terminal: ```python main.py```
+##### - Move to the root directory ```cd your_path/FINAL_PROJECT```
+##### - Execute: ```python main.py```
